@@ -35,7 +35,6 @@ Ten CSV files. The files are imperfect: they contain documented data-quality iss
 | `dim_geography.csv` | 10 | 7 | country |
 | `dim_date.csv` | 2,191 | 13 | day (2021-01-01 to 2026-12-31) |
 
-Row counts include intentionally duplicated rows. Period: orders 1 Jan 2023 – 31 Dec 2025; extract date 5 Jan 2026. Currency: USD. Timestamps: UTC.
 
 ## 4. Data model
 Star-style model with two sales facts (order header and order line) plus returns and marketing spend, sharing date, customer, product, channel, geography and promotion dimensions. Diagram, data dictionary, relationships and business rules.
