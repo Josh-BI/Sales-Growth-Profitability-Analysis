@@ -56,8 +56,9 @@ Power BI  Data modelling, DAX, two report pages.
 Contribution Profit = Net Revenue − Net COGS − Shipping Cost − Return Shipping − Channel Fees; margins are % of Net Revenue (= net merchandise + shipping charged − refunds).
 
 ## 8. Dashboard preview
-![alt text](<Profile View.png.png>)
-![alt text](<Margin Drivers.png.png>)
+<img width="1321" height="744" alt="Margin Drivers png" src="https://github.com/user-attachments/assets/30c54a6e-5e10-4432-a9d4-3eef7eeb2583" />
+<img width="1320" height="744" alt="Profile View png" src="https://github.com/user-attachments/assets/fbcffd5e-7810-4c4c-bff2-290b6bd49d44" />
+
 
 ## 9. Key findings
 Revenue grew 44% in 2025 but contribution profit grew only 29%, because margin slipped from 29.6% to 26.4%. About three-quarters of the slip is product cost rising relative to list prices, concentrated in Electronics, Footwear and Camping. Deeper consumer discounting, unrecovered shipping to far markets, more Marketplace sales and faster-growing marketing spend added to the pressure, but each is smaller.
