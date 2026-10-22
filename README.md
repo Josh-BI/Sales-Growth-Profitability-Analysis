@@ -46,9 +46,13 @@ Star-style model with two sales facts (order header and order line) plus returns
 ## 6. Methodology
 Setup and load: Create database, schemas, import CSVs unchanged. 
   A. Profiling data:  Row counts, duplicates, nulls, label variants, date formats, orphans, rule violations. 
+  
   B. Cleaning: Raw tables are reserved and new tables are created for the cleaned and relevant columns.
+  
   D. KPIs: Order and line-level P&L views at safe grain; reconciliation checks. 
+  
   C. Exploration Simple queries, one block per business question, each with findings.
+  
 Power BI  Data modelling, DAX, two report pages.
 
 ## 7. KPI definitions
