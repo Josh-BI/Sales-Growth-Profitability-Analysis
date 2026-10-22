@@ -35,27 +35,27 @@ Ten CSV files. The files are imperfect: they contain documented data-quality iss
 | `dim_geography.csv` | 10 | 7 | country |
 | `dim_date.csv` | 2,191 | 13 | day (2021-01-01 to 2026-12-31) |
 
-##  Repository Structure
+## 4. Repository Structure
 
 ```text
 Sales-Growth-Profitability-Analysis/
 │
 ├── Business_Case/
-│   └── [c:\Users\DELL\Desktop\Trail Forge Sales&Profitability Analysis\Business_Case\01_business_case.md]
+│   └── [01_business_case.md]
 │
 ├── Cleaned Data/
-│   └── [Clean dim_channel.csv]
-        [Clean dim_customers.csv]
-        [Clean dim_products.csv]
-        [Clean dim_promotion.csv]
-        [Clean fact_orders.csv]
-        [Clean fact_order_items.csv]
-        [Clean fact_marketing_spending.csv]
-        [Clean fact_returns.csv]
+│   ├── [Clean dim_channel.csv]
+    ├── [Clean dim_customers.csv]
+    ├── [Clean dim_products.csv]
+    ├── [Clean dim_promotion.csv]
+    ├── [Clean fact_orders.csv]
+    ├── [Clean fact_order_items.csv]
+    ├── [Clean fact_marketing_spending.csv]
+    └── [Clean fact_returns.csv]
 │
 ├── Dashboard Screenshot/
-│   └──[Profile View.png.png]
-       [Margin Drivers.png.png]
+│   ├──[Profile View.png.png]
+    └── [Margin Drivers.png.png]
 │
 ├── Data Raw/
 │   ├── fact_orders.csv
@@ -70,29 +70,29 @@ Sales-Growth-Profitability-Analysis/
 │   └── dim_date.csv
 │
 ├── Documentation/
-│   └── [02_data_architecture.md]
-        [03_kpi_definitions.md]
+│   ├──[02_data_architecture.md]
+    └──[03_kpi_definitions.md]
 │
 ├── Power BI/
 │   └── [Trail Forge Outdoor Co..pbix]
 │
 ├── SQL/
-│   └── [TrailForge Data Cleaning.sql]
-        [Views And KPIs.sql]
-        [TrailForge Outdoor EDA.sql]
-        [06_eda_findings_summary.md]
+│   ├──[TrailForge Data Cleaning.sql]
+    ├──[Views And KPIs.sql]
+    ├──[TrailForge Outdoor EDA.sql]
+    └──[06_eda_findings_summary.md]
 │
 └── README.md
 ```
 
-## 4. Data model
+## 5. Data model
 Star-style model with two sales facts (order header and order line) plus returns and marketing spend, sharing date, customer, product, channel, geography and promotion dimensions. Diagram, data dictionary, relationships and business rules.
 
-## 5. Tools and technologies
+## 6. Tools and technologies
 * SQL Server (SQL: staging, cleaning, CTEs, window functions, date logic, KPI views)
 * Power BI Desktop (star schema, Power Query, DAX, interactive report)
 
-## 6. Methodology
+## 7. Methodology
 Setup and load: Create database, schemas, import CSVs unchanged.
 
   A. Profiling data:  Row counts, duplicates, nulls, label variants, date formats, orphans, rule violations. 
@@ -105,18 +105,18 @@ Setup and load: Create database, schemas, import CSVs unchanged.
   
 Power BI:  Data modelling, DAX, two report pages.
 
-## 7. KPI definitions
+## 8. KPI definitions
 Contribution Profit = Net Revenue − Net COGS − Shipping Cost − Return Shipping − Channel Fees; margins are % of Net Revenue (= net merchandise + shipping charged − refunds).
 
-## 8. Dashboard preview
+## 9. Dashboard preview
 <img width="1320" height="744" alt="Profile View png" src="https://github.com/user-attachments/assets/fbcffd5e-7810-4c4c-bff2-290b6bd49d44" />
 <img width="1321" height="744" alt="Margin Drivers png" src="https://github.com/user-attachments/assets/30c54a6e-5e10-4432-a9d4-3eef7eeb2583" />
 
 
-## 9. Key findings
+## 10. Key findings
 Revenue grew 44% in 2025 but contribution profit grew only 29%, because margin slipped from 29.6% to 26.4%. About three-quarters of the slip is product cost rising relative to list prices, concentrated in Electronics, Footwear and Camping. Deeper consumer discounting, unrecovered shipping to far markets, more Marketplace sales and faster-growing marketing spend added to the pressure, but each is smaller.
 
-## 10. Limitations
+## 11. Limitations
 * Synthetic data: patterns are plausible, not real; conclusions describe this fictional company only.
 * Marketing spend cannot be attributed to orders; efficiency is measured in aggregate.
 * Contribution profit excludes overhead; it is not net income.
