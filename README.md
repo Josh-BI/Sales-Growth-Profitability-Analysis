@@ -87,6 +87,8 @@ Sales-Growth-Profitability-Analysis/
 
 ## 5. Data model
 Star-style model with two sales facts (order header and order line) plus returns and marketing spend, sharing date, customer, product, channel, geography and promotion dimensions. Diagram, data dictionary, relationships and business rules.
+## Model Preview
+[![alt text](<Data Model.png>)]
 
 ## 6. Tools and technologies
 * SQL Server (SQL: staging, cleaning, CTEs, window functions, date logic, KPI views)
