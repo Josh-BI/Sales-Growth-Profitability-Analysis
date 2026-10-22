@@ -44,7 +44,8 @@ Star-style model with two sales facts (order header and order line) plus returns
 * Power BI Desktop (star schema, Power Query, DAX, interactive report)
 
 ## 6. Methodology
-Setup and load: Create database, schemas, import CSVs unchanged. 
+Setup and load: Create database, schemas, import CSVs unchanged.
+
   A. Profiling data:  Row counts, duplicates, nulls, label variants, date formats, orphans, rule violations. 
   
   B. Cleaning: Raw tables are reserved and new tables are created for the cleaned and relevant columns.
@@ -53,7 +54,7 @@ Setup and load: Create database, schemas, import CSVs unchanged.
   
   C. Exploration Simple queries, one block per business question, each with findings.
   
-Power BI  Data modelling, DAX, two report pages.
+Power BI:  Data modelling, DAX, two report pages.
 
 ## 7. KPI definitions
 Contribution Profit = Net Revenue − Net COGS − Shipping Cost − Return Shipping − Channel Fees; margins are % of Net Revenue (= net merchandise + shipping charged − refunds).
