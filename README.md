@@ -35,6 +35,56 @@ Ten CSV files. The files are imperfect: they contain documented data-quality iss
 | `dim_geography.csv` | 10 | 7 | country |
 | `dim_date.csv` | 2,191 | 13 | day (2021-01-01 to 2026-12-31) |
 
+##  Repository Structure
+
+```text
+Sales-Growth-Profitability-Analysis/
+│
+├── Business_Case/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Business_Case\01_business_case.md"]
+│
+├── Cleaned Data/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean dim_channel.csv"]
+        ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean dim_customers.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean dim_product.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean dim_promotion.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean fact_marketing_spend.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean fact_order_items.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean fact_orders.csv"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Cleaned Data\Clean fact_returns.csv"]
+│
+├── Dashboard Screenshot/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Dashboard Screenshot\Profile View.png.png"]
+        [""C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Dashboard Screenshot\Margin Drivers.png.png"]
+│
+├── Data Raw/
+│   ├── fact_orders.csv
+│   ├── fact_order_items.csv
+│   ├── fact_returns.csv
+│   ├── fact_marketing_spend.csv
+│   ├── dim_customer.csv
+│   ├── dim_product.csv
+│   ├── dim_promotion.csv
+│   ├── dim_channel.csv
+│   ├── dim_geography.csv
+│   └── dim_date.csv
+│
+├── Documentation/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Documentation\02_data_architecture.md"]
+        ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Documentation\03_kpi_definitions.md"]
+│
+├── Power BI/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\Power BI\Trail Forge Outdoor Co..pbix"]
+│
+├── SQL/
+│   └── ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\SQL\TrailForge Data Cleaning.sql"]
+        ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\SQL\Views And KPIs.sql"]
+        ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\SQL\TrailForge Outdoor EDA.sql"]
+        ["C:\Users\DELL\Documents\GitHub\Sales-Growth-Profitability-Analysis\SQL\06_eda_findings_summary.md"]
+│
+└── README.md
+```
+
 
 ## 4. Data model
 Star-style model with two sales facts (order header and order line) plus returns and marketing spend, sharing date, customer, product, channel, geography and promotion dimensions. Diagram, data dictionary, relationships and business rules.
