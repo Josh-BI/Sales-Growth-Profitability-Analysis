@@ -1,0 +1,1001 @@
+﻿customer_id,customer_email,customer_type,business_segment,country,is_pre_period_customer,signup_date,acquisition_source,marketing_opt_in
+CUS-00001,cust00001@example.com,Consumer,NULL,United States,1,2021-03-10,Marketplace,0
+CUS-00002,cust00002@example.com,Consumer,NULL,United States,1,2021-03-12,Email Campaign,1
+CUS-00003,cust00003@example.com,Consumer,NULL,United States,1,2021-03-24,Marketplace,1
+CUS-00004,cust00004@example.net,Business,Corporate / Organisation,United Kingdom,1,2021-03-25,Trade Show,0
+CUS-00005,cust00005@example.com,Consumer,NULL,Unknown,1,2021-03-31,Marketplace,1
+CUS-00006,cust00006@example.com,Consumer,NULL,United Kingdom,1,2021-04-05,Marketplace,0
+CUS-00007,cust00007@example.com,Consumer,NULL,Australia,1,2021-04-05,Paid Social,0
+CUS-00008,cust00008@example.com,Consumer,NULL,United States,1,2021-04-07,Paid Social,1
+CUS-00009,cust00009@example.net,Business,Specialty Retailer,Germany,1,2021-04-11,Wholesale Sales Team,1
+CUS-00010,cust00010@example.com,Consumer,NULL,Canada,1,2021-04-17,Email Campaign,0
+CUS-00011,cust00011@example.com,Consumer,NULL,United States,1,2021-04-18,Paid Social,0
+CUS-00012,cust00012@example.com,Consumer,NULL,United Kingdom,1,2021-04-22,Paid Social,0
+CUS-00013,cust00013@example.com,Consumer,NULL,Canada,1,2021-04-23,Marketplace,0
+CUS-00014,cust00014@example.com,Consumer,NULL,Germany,1,2021-04-27,Email Campaign,0
+CUS-00015,cust00015@example.com,Consumer,NULL,United Kingdom,1,2021-04-30,Organic Search,1
+CUS-00016,cust00016@example.com,Consumer,NULL,United Kingdom,1,2021-05-01,Marketplace,1
+CUS-00017,cust00017@example.com,Consumer,NULL,United Kingdom,1,2021-05-07,Organic Search,0
+CUS-00018,cust00018@example.com,Consumer,NULL,United States,1,2021-05-12,Marketplace,1
+CUS-00019,cust00019@example.com,Consumer,NULL,Canada,1,2021-05-16,Marketplace,1
+CUS-00020,cust00020@example.net,Business,Corporate / Organisation,United States,1,2021-05-18,Trade Show,1
+CUS-00021,cust00021@example.com,Consumer,NULL,Germany,1,2021-06-07,Paid Social,1
+CUS-00022,cust00022@example.com,Consumer,NULL,United Kingdom,1,2021-06-20,Paid Social,1
+CUS-00023,cust00023@example.com,Consumer,NULL,United States,1,2021-06-25,Marketplace,1
+CUS-00024,cust00024@example.com,Consumer,NULL,United States,1,2021-06-25,Marketplace,0
+CUS-00025,cust00025@example.com,Consumer,NULL,United States,1,2021-07-08,Email Campaign,0
+CUS-00026,cust00026@example.com,Consumer,NULL,Australia,1,2021-07-10,Referral,1
+CUS-00027,cust00027@example.com,Consumer,NULL,United States,1,2021-07-11,Organic Search,0
+CUS-00028,cust00028@example.com,Consumer,NULL,United States,1,2021-07-28,Paid Social,1
+CUS-00029,cust00029@example.com,Consumer,NULL,United States,1,2021-08-03,Referral,0
+CUS-00030,cust00030@example.com,Consumer,NULL,Australia,1,2021-08-13,Organic Search,1
+CUS-00031,cust00031@example.com,Consumer,NULL,Canada,1,2021-09-04,Marketplace,0
+CUS-00032,NULL,Consumer,NULL,United States,1,2021-09-20,Paid Social,1
+CUS-00033,cust00033@example.com,Consumer,NULL,United Kingdom,1,2021-09-21,Marketplace,0
+CUS-00034,cust00034@example.com,Consumer,NULL,United States,1,2021-09-22,Organic Search,0
+CUS-00035,cust00035@example.com,Consumer,NULL,United Kingdom,1,2021-09-27,Marketplace,0
+CUS-00036,cust00036@example.com,Consumer,NULL,Australia,1,2021-09-27,Marketplace,1
+CUS-00037,cust00037@example.com,Consumer,NULL,United States,1,2021-10-09,Email Campaign,0
+CUS-00038,cust00038@example.net,Business,Corporate / Organisation,Australia,1,2021-10-10,Trade Show,0
+CUS-00039,cust00039@example.com,Consumer,NULL,United States,1,2021-10-16,Marketplace,1
+CUS-00040,cust00040@example.com,Consumer,NULL,United States,1,2021-10-16,Marketplace,1
+CUS-00041,cust00041@example.com,Consumer,NULL,United States,1,2021-10-27,Email Campaign,1
+CUS-00042,cust00042@example.com,Consumer,NULL,United States,1,2021-11-06,Marketplace,1
+CUS-00043,cust00043@example.com,Consumer,NULL,United States,1,2021-11-08,Marketplace,1
+CUS-00044,cust00044@example.com,Consumer,NULL,United States,1,2021-11-08,Marketplace,0
+CUS-00045,cust00045@example.com,Consumer,NULL,Australia,1,2021-11-14,Direct,1
+CUS-00046,cust00046@example.com,Consumer,NULL,United States,1,2021-11-17,Email Campaign,0
+CUS-00047,cust00047@example.com,Consumer,NULL,Germany,1,2021-11-18,Marketplace,1
+CUS-00048,cust00048@example.com,Consumer,NULL,United States,1,2021-11-24,Marketplace,1
+CUS-00049,cust00049@example.com,Consumer,NULL,United States,1,2021-11-26,Marketplace,1
+CUS-00050,cust00050@example.com,Consumer,NULL,Canada,1,2021-11-27,Marketplace,1
+CUS-00051,cust00051@example.com,Consumer,NULL,United States,1,2021-12-07,Organic Search,1
+CUS-00052,cust00052@example.com,Consumer,NULL,Canada,1,2021-12-17,Paid Social,1
+CUS-00053,cust00053@example.com,Consumer,NULL,United States,1,2021-12-18,Direct,1
+CUS-00054,cust00054@example.com,Consumer,NULL,Australia,1,2021-12-20,Organic Search,0
+CUS-00055,cust00055@example.com,Consumer,NULL,United Kingdom,1,2021-12-26,Marketplace,0
+CUS-00056,cust00056@example.com,Consumer,NULL,United Kingdom,1,2021-12-31,Marketplace,1
+CUS-00057,cust00057@example.com,Consumer,NULL,United Kingdom,1,2022-01-04,Direct,0
+CUS-00058,cust00058@example.com,Consumer,NULL,Germany,1,2022-01-12,Organic Search,0
+CUS-00059,cust00059@example.com,Consumer,NULL,Germany,1,2022-01-13,Marketplace,1
+CUS-00060,cust00060@example.com,Consumer,NULL,United States,1,2022-01-21,Marketplace,1
+CUS-00061,cust00061@example.com,Consumer,NULL,United Kingdom,1,2022-01-24,Marketplace,1
+CUS-00062,cust00062@example.net,Business,Specialty Retailer,United States,1,2022-01-24,Trade Show,1
+CUS-00063,cust00063@example.net,Business,Specialty Retailer,United States,1,2022-01-31,Wholesale Sales Team,1
+CUS-00064,cust00064@example.com,Consumer,NULL,United States,1,2022-02-04,Email Campaign,1
+CUS-00065,cust00065@example.com,Consumer,NULL,United States,1,2022-02-05,Marketplace,1
+CUS-00066,cust00066@example.com,Consumer,NULL,Germany,1,2022-02-25,Marketplace,1
+CUS-00067,cust00067@example.com,Consumer,NULL,United States,1,2022-03-01,Paid Social,1
+CUS-00068,cust00068@example.com,Consumer,NULL,United Kingdom,1,2022-03-01,Organic Search,1
+CUS-00069,cust00069@example.com,Consumer,NULL,United States,1,2022-03-09,Organic Search,0
+CUS-00070,cust00070@example.com,Consumer,NULL,United Kingdom,1,2022-03-12,Paid Social,1
+CUS-00071,cust00071@example.com,Consumer,NULL,Australia,1,2022-03-17,Organic Search,1
+CUS-00072,cust00072@example.net,Business,Corporate / Organisation,United States,1,2022-03-22,Trade Show,1
+CUS-00073,cust00073@example.com,Consumer,NULL,United Kingdom,1,2022-03-23,Paid Social,0
+CUS-00074,cust00074@example.com,Consumer,NULL,Canada,1,2022-03-26,Marketplace,0
+CUS-00075,cust00075@example.com,Consumer,NULL,Australia,1,2022-04-01,Email Campaign,1
+CUS-00076,cust00076@example.com,Consumer,NULL,Germany,1,2022-04-02,Marketplace,1
+CUS-00077,cust00077@example.com,Consumer,NULL,Canada,1,2022-04-03,Organic Search,0
+CUS-00078,cust00078@example.com,Consumer,NULL,United Kingdom,1,2022-04-04,Referral,0
+CUS-00079,cust00079@example.com,Consumer,NULL,Canada,1,2022-04-05,Marketplace,1
+CUS-00080,cust00080@example.com,Consumer,NULL,United States,1,2022-04-12,Referral,1
+CUS-00081,cust00081@example.com,Consumer,NULL,United Kingdom,1,2022-04-14,Direct,1
+CUS-00082,cust00082@example.net,Business,Specialty Retailer,United Kingdom,1,2022-04-26,Wholesale Sales Team,1
+CUS-00083,cust00083@example.com,Consumer,NULL,Canada,1,2022-04-28,Marketplace,0
+CUS-00084,cust00084@example.com,Consumer,NULL,United States,1,2022-05-02,Marketplace,0
+CUS-00085,cust00085@example.com,Consumer,NULL,United Kingdom,1,2022-05-03,Email Campaign,0
+CUS-00086,cust00086@example.com,Consumer,NULL,Germany,1,2022-05-11,Paid Social,1
+CUS-00087,cust00087@example.com,Consumer,NULL,United States,1,2022-05-15,Organic Search,1
+CUS-00088,cust00088@example.net,Business,Specialty Retailer,Canada,1,2022-05-17,Wholesale Sales Team,0
+CUS-00089,cust00089@example.com,Consumer,NULL,United States,1,2022-05-26,Direct,0
+CUS-00090,cust00090@example.com,Consumer,NULL,Canada,1,2022-05-31,Marketplace,1
+CUS-00091,cust00091@example.com,Consumer,NULL,Germany,1,2022-06-06,Referral,0
+CUS-00092,cust00092@example.com,Consumer,NULL,Australia,1,2022-06-07,Organic Search,0
+CUS-00093,cust00093@example.com,Consumer,NULL,Germany,1,2022-06-20,Referral,1
+CUS-00094,cust00094@example.com,Consumer,NULL,Canada,1,2022-06-20,Email Campaign,0
+CUS-00095,cust00095@example.com,Consumer,NULL,United States,1,2022-06-23,Referral,1
+CUS-00096,cust00096@example.com,Consumer,NULL,United States,1,2022-06-28,Marketplace,1
+CUS-00097,cust00097@example.com,Consumer,NULL,United States,1,2022-07-02,Organic Search,0
+CUS-00098,cust00098@example.com,Consumer,NULL,United Kingdom,1,2022-07-05,Marketplace,0
+CUS-00099,cust00099@example.com,Consumer,NULL,United States,1,2022-07-11,Marketplace,0
+CUS-00100,cust00100@example.net,Business,Specialty Retailer,Germany,1,2022-07-22,Wholesale Sales Team,0
+CUS-00101,cust00101@example.com,Consumer,NULL,United States,1,2022-08-07,Email Campaign,1
+CUS-00102,cust00102@example.com,Consumer,NULL,Canada,1,2022-08-08,Direct,1
+CUS-00103,cust00103@example.com,Consumer,NULL,United States,1,2022-08-12,Referral,0
+CUS-00104,cust00104@example.com,Consumer,NULL,United States,1,2022-08-14,Marketplace,1
+CUS-00105,cust00105@example.com,Consumer,NULL,United Kingdom,1,2022-08-17,Organic Search,1
+CUS-00106,cust00106@example.com,Consumer,NULL,United States,1,2022-08-17,Marketplace,0
+CUS-00107,cust00107@example.com,Consumer,NULL,United States,1,2022-08-22,Organic Search,0
+CUS-00108,cust00108@example.com,Consumer,NULL,United States,1,2022-08-28,Organic Search,0
+CUS-00109,cust00109@example.com,Consumer,NULL,Germany,1,2022-08-31,Paid Social,1
+CUS-00110,cust00110@example.com,Consumer,NULL,United States,1,2022-09-01,Referral,0
+CUS-00111,cust00111@example.com,Consumer,NULL,Australia,1,2022-09-13,Paid Social,0
+CUS-00112,cust00112@example.com,Consumer,NULL,United States,1,2022-09-23,Organic Search,1
+CUS-00113,cust00113@example.com,Consumer,NULL,United States,1,2022-09-25,Marketplace,1
+CUS-00114,cust00114@example.net,Business,Specialty Retailer,United States,1,2022-10-02,Wholesale Sales Team,0
+CUS-00115,cust00115@example.com,Consumer,NULL,Canada,1,2022-10-03,Paid Social,1
+CUS-00116,cust00116@example.com,Consumer,NULL,United States,1,2022-10-04,Marketplace,0
+CUS-00117,cust00117@example.com,Consumer,NULL,United Kingdom,1,2022-10-08,Marketplace,0
+CUS-00118,cust00118@example.com,Consumer,NULL,Australia,1,2022-10-14,Marketplace,1
+CUS-00119,cust00119@example.com,Consumer,NULL,United Kingdom,1,2022-10-16,Paid Social,1
+CUS-00120,cust00120@example.com,Consumer,NULL,United States,1,2022-10-20,Organic Search,1
+CUS-00121,cust00121@example.net,Business,Corporate / Organisation,Canada,1,2022-10-27,Wholesale Sales Team,1
+CUS-00122,cust00122@example.com,Consumer,NULL,United States,1,2022-10-29,Organic Search,1
+CUS-00123,cust00123@example.com,Consumer,NULL,Germany,1,2022-11-02,Paid Social,1
+CUS-00124,cust00124@example.com,Consumer,NULL,United Kingdom,1,2022-11-12,Marketplace,1
+CUS-00125,cust00125@example.com,Consumer,NULL,United States,1,2022-11-14,Marketplace,0
+CUS-00126,cust00126@example.com,Consumer,NULL,United States,1,2022-11-16,Organic Search,1
+CUS-00127,cust00127@example.com,Consumer,NULL,Germany,1,2022-11-26,Organic Search,1
+CUS-00128,cust00128@example.com,Consumer,NULL,United States,1,2022-12-01,Marketplace,0
+CUS-00129,cust00129@example.com,Consumer,NULL,United Kingdom,1,2022-12-05,Organic Search,0
+CUS-00130,cust00130@example.com,Consumer,NULL,United States,1,2022-12-11,Referral,1
+CUS-00131,cust00131@example.com,Consumer,NULL,United Kingdom,1,2022-12-20,Organic Search,1
+CUS-00132,cust00132@example.com,Consumer,NULL,United States,1,2022-12-25,Organic Search,0
+CUS-00133,cust00133@example.com,Consumer,NULL,United States,0,2023-01-02,Referral,1
+CUS-00134,cust00134@example.com,Consumer,NULL,United States,0,2023-01-03,Marketplace,1
+CUS-00135,cust00135@example.com,Consumer,NULL,Unknown,0,2023-01-06,Marketplace,0
+CUS-00136,cust00136@example.com,Consumer,NULL,United States,0,2023-01-06,Referral,0
+CUS-00137,cust00137@example.com,Consumer,NULL,Australia,0,2023-01-07,Organic Search,0
+CUS-00138,cust00138@example.com,Consumer,NULL,Australia,0,2023-01-07,Marketplace,1
+CUS-00139,cust00139@example.com,Consumer,NULL,United States,0,2023-01-08,Organic Search,1
+CUS-00140,cust00140@example.com,Consumer,NULL,United States,0,2023-01-10,Organic Search,0
+CUS-00141,cust00141@example.com,Consumer,NULL,Deutschland,0,2023-01-12,Marketplace,0
+CUS-00142,cust00142@example.com,Consumer,NULL,Canada,0,2023-01-12,Marketplace,1
+CUS-00143,cust00143@example.com,Consumer,NULL,United States,0,2023-01-12,Marketplace,1
+CUS-00144,cust00144@example.com,Consumer,NULL,Australia,0,2023-01-12,Paid Social,1
+CUS-00145,cust00145@example.com,Consumer,NULL,United States,0,2023-01-14,Organic Search,1
+CUS-00146,cust00146@example.com,Consumer,NULL,Australia,0,2023-01-15,Direct,1
+CUS-00147,cust00147@example.com,Consumer,NULL,United States,0,2023-01-15,Organic Search,1
+CUS-00148,cust00148@example.com,Consumer,NULL,United States,0,2023-01-15,Organic Search,1
+CUS-00149,cust00149@example.com,Consumer,NULL,United States,0,2023-01-16,Organic Search,1
+CUS-00150,cust00150@example.com,Consumer,NULL,United States,0,2023-01-17,Referral,0
+CUS-00151,cust00151@example.com,Consumer,NULL,United States,0,2023-01-18,Marketplace,0
+CUS-00152,cust00152@example.com,Consumer,NULL,United States,0,2023-01-21,Marketplace,0
+CUS-00153,cust00153@example.com,Consumer,NULL,United States,0,2023-01-24,Marketplace,1
+CUS-00154,cust00154@example.com,Consumer,NULL,Australia,0,2023-01-26,Paid Social,1
+CUS-00155,cust00155@example.net,Business,Specialty Retailer,Canada,0,2023-01-26,Wholesale Sales Team,0
+CUS-00156,cust00156@example.com,Consumer,NULL,United States,0,2023-01-28,Direct,1
+CUS-00157,cust00157@example.com,Consumer,NULL,Australia,0,2023-01-30,Marketplace,1
+CUS-00158,cust00158@example.com,Consumer,NULL,United Kingdom,0,2023-01-30,Organic Search,0
+CUS-00159,cust00159@example.com,Consumer,NULL,Unknown,0,2023-01-31,Paid Social,1
+CUS-00160,cust00160@example.com,Consumer,NULL,United States,0,2023-02-01,Organic Search,1
+CUS-00161,cust00161@example.com,Consumer,NULL,Canada,0,2023-02-01,Paid Social,1
+CUS-00162,cust00162@example.com,Consumer,NULL,United Kingdom,0,2023-02-03,Organic Search,1
+CUS-00163,cust00163@example.com,Consumer,NULL,United States,0,2023-02-03,Organic Search,1
+CUS-00164,cust00164@example.com,Consumer,NULL,United States,0,2023-02-04,Paid Social,1
+CUS-00165,cust00165@example.com,Consumer,NULL,Canada,0,2023-02-04,Marketplace,1
+CUS-00166,cust00166@example.com,Consumer,NULL,Australia,0,2023-02-04,Paid Social,1
+CUS-00167,cust00167@example.com,Consumer,NULL,Germany,0,2023-02-05,Organic Search,0
+CUS-00168,cust00168@example.com,Consumer,NULL,United States,0,2023-02-07,Paid Social,0
+CUS-00169,cust00169@example.com,Consumer,NULL,United States,0,2023-02-11,Paid Social,1
+CUS-00170,cust00170@example.com,Consumer,NULL,United States,0,2023-02-13,Organic Search,0
+CUS-00171,cust00171@example.com,Consumer,NULL,United Kingdom,0,2023-02-14,Paid Social,1
+CUS-00172,cust00172@example.com,Consumer,NULL,Australia,0,2023-02-17,Marketplace,0
+CUS-00173,cust00173@example.com,Consumer,NULL,Germany,0,2023-02-17,Referral,1
+CUS-00174,cust00174@example.com,Consumer,NULL,Germany,0,2023-02-18,Referral,0
+CUS-00175,cust00175@example.com,Consumer,NULL,United States,0,2023-02-18,Marketplace,1
+CUS-00176,cust00176@example.com,Consumer,NULL,Australia,0,2023-02-19,Referral,0
+CUS-00177,cust00177@example.net,Business,Specialty Retailer,Canada,0,2023-02-21,Wholesale Sales Team,1
+CUS-00178,cust00178@example.com,Consumer,NULL,United Kingdom,0,2023-02-22,Direct,0
+CUS-00179,cust00179@example.com,Consumer,NULL,Australia,0,2023-02-22,Marketplace,1
+CUS-00180,cust00180@example.com,Consumer,NULL,Canada,0,2023-02-22,Marketplace,1
+CUS-00181,cust00181@example.com,Consumer,NULL,United States,0,2023-02-25,Organic Search,0
+CUS-00182,cust00182@example.com,Consumer,NULL,United States,0,2023-02-25,Marketplace,1
+CUS-00183,cust00183@example.com,Consumer,NULL,United States,0,2023-02-27,Marketplace,1
+CUS-00184,cust00184@example.com,Consumer,NULL,United Kingdom,0,2023-02-27,Marketplace,0
+CUS-00185,cust00185@example.com,Consumer,NULL,United Kingdom,0,2023-02-28,Marketplace,1
+CUS-00186,cust00186@example.com,Consumer,NULL,United States,0,2023-02-28,Marketplace,0
+CUS-00187,cust00187@example.com,Consumer,NULL,United States,0,2023-03-01,Referral,1
+CUS-00188,cust00188@example.com,Consumer,NULL,Germany,0,2023-03-01,Marketplace,1
+CUS-00189,cust00189@example.com,Consumer,NULL,Canada,0,2023-03-02,Referral,0
+CUS-00190,cust00190@example.com,Consumer,NULL,Australia,0,2023-03-02,Marketplace,0
+CUS-00191,cust00191@example.com,Consumer,NULL,Germany,0,2023-03-02,Paid Social,0
+CUS-00192,cust00192@example.com,Consumer,NULL,United States,0,2023-03-03,Paid Social,1
+CUS-00193,cust00193@example.com,Consumer,NULL,Australia,0,2023-03-03,Marketplace,0
+CUS-00194,cust00194@example.com,Consumer,NULL,Canada,0,2023-03-04,Marketplace,1
+CUS-00195,cust00195@example.com,Consumer,NULL,United Kingdom,0,2023-03-04,Paid Social,0
+CUS-00196,cust00196@example.com,Consumer,NULL,United States,0,2023-03-05,Paid Social,1
+CUS-00197,cust00197@example.com,Consumer,NULL,United States,0,2023-03-06,Marketplace,0
+CUS-00198,cust00198@example.com,Consumer,NULL,United States,0,2023-03-09,Marketplace,0
+CUS-00199,cust00199@example.com,Consumer,NULL,United States,0,2023-03-11,Marketplace,0
+CUS-00200,cust00200@example.com,Consumer,NULL,United States,0,2023-03-12,Direct,0
+CUS-00201,cust00201@example.com,Consumer,NULL,United States,0,2023-03-13,Paid Social,1
+CUS-00202,cust00202@example.net,Business,Corporate / Organisation,Deutschland,0,2023-03-13,Trade Show,0
+CUS-00203,cust00203@example.com,Consumer,NULL,United Kingdom,0,2023-03-17,Marketplace,1
+CUS-00204,cust00204@example.com,Consumer,NULL,United States,0,2023-03-17,Paid Social,0
+CUS-00205,cust00205@example.com,Consumer,NULL,United Kingdom,0,2023-03-18,Marketplace,1
+CUS-00206,cust00206@example.com,Consumer,NULL,Deutschland,0,2023-03-18,Marketplace,1
+CUS-00207,cust00207@example.com,Consumer,NULL,United Kingdom,0,2023-03-19,Marketplace,0
+CUS-00208,cust00208@example.com,Consumer,NULL,United Kingdom,0,2023-03-23,Marketplace,0
+CUS-00209,cust00209@example.com,Consumer,NULL,Australia,0,2023-03-24,Marketplace,0
+CUS-00210,cust00210@example.com,Consumer,NULL,United States,0,2023-03-24,Marketplace,1
+CUS-00211,cust00211@example.com,Consumer,NULL,United States,0,2023-03-24,Referral,1
+CUS-00212,cust00212@example.com,Consumer,NULL,United Kingdom,0,2023-03-25,Marketplace,0
+CUS-00213,cust00213@example.com,Consumer,NULL,United States,0,2023-03-26,Marketplace,1
+CUS-00214,cust00214@example.com,Consumer,NULL,United States,0,2023-03-26,Paid Social,1
+CUS-00215,cust00215@example.com,Consumer,NULL,Australia,0,2023-03-27,Email Campaign,0
+CUS-00216,cust00216@example.com,Consumer,NULL,United Kingdom,0,2023-03-27,Organic Search,1
+CUS-00217,cust00217@example.com,Consumer,NULL,United Kingdom,0,2023-03-29,Marketplace,0
+CUS-00218,cust00218@example.com,Consumer,NULL,United States,0,2023-03-30,Paid Social,1
+CUS-00219,cust00219@example.com,Consumer,NULL,United States,0,2023-03-30,Marketplace,1
+CUS-00220,cust00220@example.com,Consumer,NULL,Australia,0,2023-03-31,Marketplace,0
+CUS-00221,cust00221@example.com,Consumer,NULL,United Kingdom,0,2023-03-31,Email Campaign,1
+CUS-00222,cust00222@example.com,Consumer,NULL,Australia,0,2023-03-31,Marketplace,1
+CUS-00223,cust00223@example.com,Consumer,NULL,United States,0,2023-04-01,Organic Search,1
+CUS-00224,cust00224@example.com,Consumer,NULL,Germany,0,2023-04-02,Paid Social,1
+CUS-00225,cust00225@example.com,Consumer,NULL,United States,0,2023-04-03,Paid Social,0
+CUS-00226,cust00226@example.com,Consumer,NULL,United States,0,2023-04-04,Paid Social,1
+CUS-00227,cust00227@example.com,Consumer,NULL,Australia,0,2023-04-05,Organic Search,1
+CUS-00228,cust00228@example.com,Consumer,NULL,United States,0,2023-04-05,Marketplace,0
+CUS-00229,cust00229@example.com,Consumer,NULL,United States,0,2023-04-05,Marketplace,0
+CUS-00230,cust00230@example.com,Consumer,NULL,United Kingdom,0,2023-04-06,Email Campaign,1
+CUS-00231,cust00231@example.com,Consumer,NULL,United States,0,2023-04-07,Marketplace,1
+CUS-00232,cust00232@example.com,Consumer,NULL,United States,0,2023-04-08,Marketplace,1
+CUS-00233,cust00233@example.com,Consumer,NULL,United States,0,2023-04-08,Direct,1
+CUS-00234,cust00234@example.com,Consumer,NULL,Germany,0,2023-04-09,Direct,1
+CUS-00235,cust00235@example.com,Consumer,NULL,Australia,0,2023-04-10,Organic Search,1
+CUS-00236,cust00236@example.com,Consumer,NULL,United Kingdom,0,2023-04-11,Marketplace,1
+CUS-00237,cust00237@example.com,Consumer,NULL,United Kingdom,0,2023-04-11,Organic Search,1
+CUS-00238,cust00238@example.com,Consumer,NULL,Canada,0,2023-04-11,Marketplace,0
+CUS-00239,cust00239@example.net,Business,Specialty Retailer,United States,0,2023-04-11,Wholesale Sales Team,1
+CUS-00240,cust00240@example.com,Consumer,NULL,Germany,0,2023-04-12,Referral,1
+CUS-00241,cust00241@example.com,Consumer,NULL,Singapore,0,2023-04-14,Referral,1
+CUS-00242,cust00242@example.com,Consumer,NULL,Germany,0,2023-04-14,Direct,0
+CUS-00243,cust00243@example.com,Consumer,NULL,United Kingdom,0,2023-04-15,Organic Search,0
+CUS-00244,cust00244@example.com,Consumer,NULL,Canada,0,2023-04-15,Marketplace,0
+CUS-00245,cust00245@example.com,Consumer,NULL,Germany,0,2023-04-16,Marketplace,1
+CUS-00246,cust00246@example.com,Consumer,NULL,Australia,0,2023-04-16,Email Campaign,0
+CUS-00247,cust00247@example.com,Consumer,NULL,United States,0,2023-04-18,Paid Social,1
+CUS-00248,cust00248@example.com,Consumer,NULL,United States,0,2023-04-18,Direct,1
+CUS-00249,cust00249@example.com,Consumer,NULL,United Kingdom,0,2023-04-19,Marketplace,1
+CUS-00250,cust00250@example.com,Consumer,NULL,United States,0,2023-04-19,Marketplace,1
+CUS-00251,cust00251@example.com,Consumer,NULL,Australia,0,2023-04-20,Paid Social,0
+CUS-00252,cust00252@example.com,Consumer,NULL,United States,0,2023-04-20,Referral,1
+CUS-00253,cust00253@example.com,Consumer,NULL,United States,0,2023-04-21,Marketplace,1
+CUS-00254,cust00254@example.com,Consumer,NULL,Germany,0,2023-04-21,Paid Social,1
+CUS-00255,cust00255@example.net,Business,Specialty Retailer,Australia,0,2023-04-21,Trade Show,0
+CUS-00256,cust00256@example.com,Consumer,NULL,Canada,0,2023-04-23,Referral,0
+CUS-00257,cust00257@example.com,Consumer,NULL,Singapore,0,2023-04-24,Paid Social,0
+CUS-00258,cust00258@example.com,Consumer,NULL,Australia,0,2023-04-24,Organic Search,1
+CUS-00259,cust00259@example.com,Consumer,NULL,United States,0,2023-04-25,Referral,0
+CUS-00260,cust00260@example.com,Consumer,NULL,United States,0,2023-04-25,Marketplace,1
+CUS-00261,cust00261@example.com,Consumer,NULL,Canada,0,2023-04-25,Marketplace,0
+CUS-00262,cust00262@example.com,Consumer,NULL,United States,0,2023-04-26,Paid Social,0
+CUS-00263,cust00263@example.com,Consumer,NULL,Singapore,0,2023-04-28,Marketplace,0
+CUS-00264,cust00264@example.com,Consumer,NULL,United States,0,2023-04-29,Marketplace,1
+CUS-00265,cust00265@example.com,Consumer,NULL,United States,0,2023-05-01,Marketplace,1
+CUS-00266,cust00266@example.com,Consumer,NULL,United Kingdom,0,2023-05-01,Marketplace,0
+CUS-00267,cust00267@example.com,Consumer,NULL,Singapore,0,2023-05-01,Marketplace,0
+CUS-00268,cust00268@example.com,Consumer,NULL,Australia,0,2023-05-03,Marketplace,1
+CUS-00269,cust00269@example.com,Consumer,NULL,Canada,0,2023-05-03,Organic Search,1
+CUS-00270,cust00270@example.com,Consumer,NULL,United States,0,2023-05-05,Paid Social,1
+CUS-00271,cust00271@example.com,Consumer,NULL,Canada,0,2023-05-05,Marketplace,1
+CUS-00272,cust00272@example.com,Consumer,NULL,United States,0,2023-05-06,Marketplace,0
+CUS-00273,cust00273@example.com,Consumer,NULL,United States,0,2023-05-06,Marketplace,1
+CUS-00274,cust00274@example.com,Consumer,NULL,Australia,0,2023-05-06,Email Campaign,0
+CUS-00275,cust00275@example.com,Consumer,NULL,Australia,0,2023-05-07,Organic Search,1
+CUS-00276,cust00276@example.com,Consumer,NULL,Singapore,0,2023-05-08,Organic Search,0
+CUS-00277,cust00277@example.com,Consumer,NULL,Singapore,0,2023-05-08,Paid Social,1
+CUS-00278,cust00278@example.com,Consumer,NULL,Germany,0,2023-05-09,Paid Social,0
+CUS-00279,cust00279@example.com,Consumer,NULL,United States,0,2023-05-10,Direct,1
+CUS-00280,cust00280@example.com,Consumer,NULL,Canada,0,2023-05-10,Marketplace,1
+CUS-00281,cust00281@example.com,Consumer,NULL,Canada,0,2023-05-11,Organic Search,1
+CUS-00282,cust00282@example.com,Consumer,NULL,United Kingdom,0,2023-05-11,Organic Search,1
+CUS-00283,cust00283@example.com,Consumer,NULL,United States,0,2023-05-11,Marketplace,0
+CUS-00284,cust00284@example.com,Consumer,NULL,Australia,0,2023-05-13,Paid Social,0
+CUS-00285,cust00285@example.com,Consumer,NULL,United States,0,2023-05-15,Marketplace,1
+CUS-00286,cust00286@example.com,Consumer,NULL,United States,0,2023-05-16,Marketplace,0
+CUS-00287,cust00287@example.com,Consumer,NULL,United States,0,2023-05-16,Direct,1
+CUS-00288,cust00288@example.com,Consumer,NULL,United States,0,2023-05-21,Marketplace,0
+CUS-00289,cust00289@example.com,Consumer,NULL,United States,0,2023-05-21,Paid Social,1
+CUS-00290,cust00290@example.com,Consumer,NULL,Australia,0,2023-05-22,Paid Social,1
+CUS-00291,cust00291@example.com,Consumer,NULL,United Kingdom,0,2023-05-22,Direct,0
+CUS-00292,cust00292@example.com,Consumer,NULL,Canada,0,2023-05-24,Organic Search,1
+CUS-00293,cust00293@example.com,Consumer,NULL,United Kingdom,0,2023-05-26,Email Campaign,1
+CUS-00294,cust00294@example.com,Consumer,NULL,Germany,0,2023-05-27,Marketplace,1
+CUS-00295,cust00295@example.com,Consumer,NULL,Australia,0,2023-05-27,Marketplace,1
+CUS-00296,cust00296@example.com,Consumer,NULL,United States,0,2023-05-30,Marketplace,1
+CUS-00297,cust00297@example.com,Consumer,NULL,United States,0,2023-06-01,Marketplace,0
+CUS-00298,cust00298@example.com,Consumer,NULL,"Germany ",0,2023-06-01,Marketplace,0
+CUS-00299,cust00299@example.com,Consumer,NULL,Canada,0,2023-06-01,Organic Search,1
+CUS-00300,cust00300@example.com,Consumer,NULL,United States,0,2023-06-06,Referral,1
+CUS-00301,cust00301@example.com,Consumer,NULL,Singapore,0,2023-06-07,Organic Search,0
+CUS-00302,cust00302@example.com,Consumer,NULL,Canada,0,2023-06-07,Paid Social,1
+CUS-00303,cust00303@example.com,Consumer,NULL,United Kingdom,0,2023-06-08,Marketplace,0
+CUS-00304,cust00304@example.com,Consumer,NULL,United Kingdom,0,2023-06-08,Marketplace,0
+CUS-00305,cust00305@example.com,Consumer,NULL,United States,0,2023-06-09,Marketplace,0
+CUS-00306,cust00306@example.com,Consumer,NULL,United States,0,2023-06-09,Referral,0
+CUS-00307,cust00307@example.com,Consumer,NULL,Australia,0,2023-06-10,Organic Search,1
+CUS-00308,cust00308@example.com,Consumer,NULL,United Kingdom,0,2023-06-10,Paid Social,1
+CUS-00309,cust00309@example.com,Consumer,NULL,Australia,0,2023-06-10,Organic Search,1
+CUS-00310,cust00310@example.com,Consumer,NULL,United Kingdom,0,2023-06-10,Marketplace,1
+CUS-00311,cust00311@example.com,Consumer,NULL,Australia,0,2023-06-11,Organic Search,0
+CUS-00312,cust00312@example.com,Consumer,NULL,Australia,0,2023-06-11,Marketplace,1
+CUS-00313,cust00313@example.com,Consumer,NULL,United States,0,2023-06-11,Paid Social,1
+CUS-00314,cust00314@example.com,Consumer,NULL,United Kingdom,0,2023-06-12,Paid Social,0
+CUS-00315,cust00315@example.com,Consumer,NULL,Canada,0,2023-06-13,Marketplace,1
+CUS-00316,cust00316@example.com,Consumer,NULL,Canada,0,2023-06-14,Marketplace,0
+CUS-00317,cust00317@example.com,Consumer,NULL,Singapore,0,2023-06-15,Organic Search,0
+CUS-00318,cust00318@example.com,Consumer,NULL,Germany,0,2023-06-16,Organic Search,1
+CUS-00319,cust00319@example.com,Consumer,NULL,United States,0,2023-06-16,Paid Social,0
+CUS-00320,cust00320@example.com,Consumer,NULL,Canada,0,2023-06-16,Organic Search,1
+CUS-00321,cust00321@example.com,Consumer,NULL,United States,0,2023-06-17,Paid Social,1
+CUS-00322,cust00322@example.com,Consumer,NULL,United Kingdom,0,2023-06-17,Marketplace,1
+CUS-00323,cust00323@example.com,Consumer,NULL,Singapore,0,2023-06-17,Referral,1
+CUS-00324,cust00324@example.com,Consumer,NULL,United States,0,2023-06-18,Organic Search,1
+CUS-00325,cust00325@example.com,Consumer,NULL,Australia,0,2023-06-19,Paid Social,0
+CUS-00326,cust00326@example.com,Consumer,NULL,Germany,0,2023-06-19,Marketplace,1
+CUS-00327,cust00327@example.com,Consumer,NULL,United States,0,2023-06-19,Marketplace,1
+CUS-00328,cust00328@example.com,Consumer,NULL,Germany,0,2023-06-21,Marketplace,1
+CUS-00329,cust00329@example.com,Consumer,NULL,Canada,0,2023-06-23,Marketplace,0
+CUS-00330,cust00330@example.com,Consumer,NULL,Australia,0,2023-06-24,Marketplace,0
+CUS-00331,cust00331@example.com,Consumer,NULL,United Kingdom,0,2023-06-24,Marketplace,0
+CUS-00332,cust00332@example.com,Consumer,NULL,Australia,0,2023-06-24,Marketplace,0
+CUS-00333,cust00333@example.com,Consumer,NULL,United States,0,2023-06-24,Organic Search,0
+CUS-00334,cust00334@example.com,Consumer,NULL,United States,0,2023-06-25,Email Campaign,0
+CUS-00335,cust00335@example.com,Consumer,NULL,Deutschland,0,2023-06-25,Organic Search,1
+CUS-00336,cust00336@example.com,Consumer,NULL,United States,0,2023-06-26,Marketplace,1
+CUS-00337,cust00337@example.com,Consumer,NULL,United States,0,2023-06-26,Organic Search,1
+CUS-00338,cust00338@example.com,Consumer,NULL,Germany,0,2023-06-26,Email Campaign,0
+CUS-00339,cust00339@example.com,Consumer,NULL,United States,0,2023-06-26,Referral,1
+CUS-00340,cust00340@example.com,Consumer,NULL,Germany,0,2023-06-27,Direct,1
+CUS-00341,cust00341@example.com,Consumer,NULL,United Kingdom,0,2023-06-27,Direct,1
+CUS-00342,cust00342@example.com,Consumer,NULL,United Kingdom,0,2023-06-27,Marketplace,1
+CUS-00343,cust00343@example.com,Consumer,NULL,United States,0,2023-06-28,Direct,1
+CUS-00344,cust00344@example.com,Consumer,NULL,Canada,0,2023-06-28,Organic Search,1
+CUS-00345,cust00345@example.com,Consumer,NULL,United States,0,2023-06-28,Email Campaign,1
+CUS-00346,cust00346@example.com,Consumer,NULL,Canada,0,2023-06-30,Referral,1
+CUS-00347,cust00347@example.com,Consumer,NULL,United Kingdom,0,2023-07-03,Referral,1
+CUS-00348,cust00348@example.com,Consumer,NULL,United States,0,2023-07-05,Email Campaign,0
+CUS-00349,cust00349@example.com,Consumer,NULL,Australia,0,2023-07-07,Organic Search,1
+CUS-00350,cust00350@example.com,Consumer,NULL,France,0,2023-07-08,Organic Search,0
+CUS-00351,cust00351@example.com,Consumer,NULL,United Kingdom,0,2023-07-10,Referral,0
+CUS-00352,cust00352@example.com,Consumer,NULL,Germany,0,2023-07-11,Marketplace,0
+CUS-00353,cust00353@example.com,Consumer,NULL,France,0,2023-07-13,Organic Search,1
+CUS-00354,cust00354@example.com,Consumer,NULL,Singapore,0,2023-07-13,Paid Social,0
+CUS-00355,cust00355@example.com,Consumer,NULL,United States,0,2023-07-13,Email Campaign,0
+CUS-00356,cust00356@example.com,Consumer,NULL,Australia,0,2023-07-14,Email Campaign,0
+CUS-00357,cust00357@example.com,Consumer,NULL,United Kingdom,0,2023-07-14,Marketplace,1
+CUS-00358,cust00358@example.com,Consumer,NULL,Germany,0,2023-07-16,Marketplace,0
+CUS-00359,cust00359@example.com,Consumer,NULL,Germany,0,2023-07-16,Marketplace,1
+CUS-00360,cust00360@example.com,Consumer,NULL,United States,0,2023-07-17,Marketplace,0
+CUS-00361,cust00361@example.com,Consumer,NULL,United States,0,2023-07-17,Marketplace,1
+CUS-00362,cust00362@example.com,Consumer,NULL,United States,0,2023-07-18,Referral,1
+CUS-00363,cust00363@example.com,Consumer,NULL,United States,0,2023-07-18,Referral,1
+CUS-00364,cust00364@example.com,Consumer,NULL,Deutschland,0,2023-07-19,Marketplace,0
+CUS-00365,cust00365@example.com,Consumer,NULL,United States,0,2023-07-21,Marketplace,1
+CUS-00366,cust00366@example.com,Consumer,NULL,United States,0,2023-07-22,Paid Social,1
+CUS-00367,cust00367@example.com,Consumer,NULL,Germany,0,2023-07-23,Marketplace,1
+CUS-00368,cust00368@example.com,Consumer,NULL,Australia,0,2023-07-24,Marketplace,1
+CUS-00369,cust00369@example.com,Consumer,NULL,France,0,2023-07-24,Marketplace,1
+CUS-00370,cust00370@example.com,Consumer,NULL,United States,0,2023-07-24,Paid Social,0
+CUS-00371,cust00371@example.com,Consumer,NULL,Canada,0,2023-07-25,Organic Search,0
+CUS-00372,cust00372@example.com,Consumer,NULL,France,0,2023-07-25,Paid Social,0
+CUS-00373,cust00373@example.com,Consumer,NULL,United Kingdom,0,2023-07-26,Marketplace,1
+CUS-00374,cust00374@example.com,Consumer,NULL,Canada,0,2023-07-26,Organic Search,0
+CUS-00375,cust00375@example.net,Business,Specialty Retailer,Australia,0,2023-07-26,Wholesale Sales Team,0
+CUS-00376,cust00376@example.com,Consumer,NULL,United States,0,2023-07-27,Paid Social,1
+CUS-00377,cust00377@example.com,Consumer,NULL,Canada,0,2023-07-27,Marketplace,1
+CUS-00378,cust00378@example.com,Consumer,NULL,United Kingdom,0,2023-07-30,Marketplace,0
+CUS-00379,cust00379@example.com,Consumer,NULL,United States,0,2023-08-01,Paid Social,0
+CUS-00380,cust00380@example.com,Consumer,NULL,Singapore,0,2023-08-01,Marketplace,1
+CUS-00381,cust00381@example.com,Consumer,NULL,United Kingdom,0,2023-08-01,Paid Social,0
+CUS-00382,cust00382@example.com,Consumer,NULL,Australia,0,2023-08-02,Marketplace,1
+CUS-00383,cust00383@example.com,Consumer,NULL,Germany,0,2023-08-03,Marketplace,1
+CUS-00384,cust00384@example.com,Consumer,NULL,Australia,0,2023-08-03,Marketplace,0
+CUS-00385,cust00385@example.com,Consumer,NULL,United Kingdom,0,2023-08-04,Paid Social,1
+CUS-00386,cust00386@example.com,Consumer,NULL,United Kingdom,0,2023-08-05,Marketplace,0
+CUS-00387,cust00387@example.com,Consumer,NULL,United Kingdom,0,2023-08-05,Marketplace,1
+CUS-00388,cust00388@example.com,Consumer,NULL,Australia,0,2023-08-06,Email Campaign,0
+CUS-00389,cust00389@example.com,Consumer,NULL,United Kingdom,0,2023-08-07,Organic Search,1
+CUS-00390,cust00390@example.com,Consumer,NULL,United Kingdom,0,2023-08-10,Marketplace,1
+CUS-00391,cust00391@example.com,Consumer,NULL,Canada,0,2023-08-10,Referral,0
+CUS-00392,cust00392@example.com,Consumer,NULL,United Kingdom,0,2023-08-10,Organic Search,1
+CUS-00393,cust00393@example.com,Consumer,NULL,United States,0,2023-08-10,Marketplace,1
+CUS-00394,cust00394@example.com,Consumer,NULL,Singapore,0,2023-08-11,Organic Search,1
+CUS-00395,cust00395@example.com,Consumer,NULL,Canada,0,2023-08-12,Referral,0
+CUS-00396,cust00396@example.com,Consumer,NULL,United States,0,2023-08-12,Direct,1
+CUS-00397,cust00397@example.com,Consumer,NULL,United States,0,2023-08-13,Paid Social,1
+CUS-00398,cust00398@example.com,Consumer,NULL,United States,0,2023-08-13,Paid Social,1
+CUS-00399,cust00399@example.com,Consumer,NULL,United States,0,2023-08-13,Marketplace,1
+CUS-00400,cust00400@example.com,Consumer,NULL,United States,0,2023-08-13,Marketplace,0
+CUS-00401,cust00401@example.com,Consumer,NULL,United Kingdom,0,2023-08-14,Marketplace,1
+CUS-00402,NULL,Consumer,NULL,United States,0,2023-08-14,Paid Social,1
+CUS-00403,cust00403@example.com,Consumer,NULL,Germany,0,2023-08-14,Marketplace,0
+CUS-00404,cust00404@example.com,Consumer,NULL,Canada,0,2023-08-14,Paid Social,1
+CUS-00405,cust00405@example.com,Consumer,NULL,Singapore,0,2023-08-15,Paid Social,1
+CUS-00406,cust00406@example.com,Consumer,NULL,United States,0,2023-08-15,Paid Social,0
+CUS-00407,cust00407@example.com,Consumer,NULL,Canada,0,2023-08-17,Organic Search,0
+CUS-00408,cust00408@example.net,Business,Specialty Retailer,United States,0,2023-08-18,Trade Show,0
+CUS-00409,cust00409@example.com,Consumer,NULL,Australia,0,2023-08-20,Marketplace,1
+CUS-00410,cust00410@example.com,Consumer,NULL,United States,0,2023-08-20,Marketplace,1
+CUS-00411,cust00411@example.com,Consumer,NULL,France,0,2023-08-21,Organic Search,1
+CUS-00412,cust00412@example.com,Consumer,NULL,Germany,0,2023-08-21,Paid Social,1
+CUS-00413,cust00413@example.com,Consumer,NULL,United States,0,2023-08-21,Paid Social,1
+CUS-00414,cust00414@example.com,Consumer,NULL,United Kingdom,0,2023-08-22,Marketplace,1
+CUS-00415,cust00415@example.com,Consumer,NULL,United States,0,2023-08-22,Email Campaign,0
+CUS-00416,cust00416@example.com,Consumer,NULL,United Kingdom,0,2023-08-23,Organic Search,0
+CUS-00417,cust00417@example.com,Consumer,NULL,Singapore,0,2023-08-25,Marketplace,0
+CUS-00418,cust00418@example.com,Consumer,NULL,Canada,0,2023-08-26,Marketplace,1
+CUS-00419,cust00419@example.com,Consumer,NULL,Germany,0,2023-08-27,Email Campaign,1
+CUS-00420,cust00420@example.com,Consumer,NULL,Germany,0,2023-08-27,Paid Social,0
+CUS-00421,cust00421@example.com,Consumer,NULL,United Kingdom,0,2023-08-28,Marketplace,0
+CUS-00422,NULL,Consumer,NULL,Singapore,0,2023-08-28,Direct,0
+CUS-00423,cust00423@example.com,Consumer,NULL,France,0,2023-08-29,Email Campaign,1
+CUS-00424,cust00424@example.com,Consumer,NULL,United States,0,2023-08-29,Marketplace,1
+CUS-00425,cust00425@example.com,Consumer,NULL,Germany,0,2023-08-30,Paid Social,0
+CUS-00426,cust00426@example.com,Consumer,NULL,Singapore,0,2023-08-30,Marketplace,0
+CUS-00427,cust00427@example.com,Consumer,NULL,Singapore,0,2023-09-03,Referral,1
+CUS-00428,cust00428@example.com,Consumer,NULL,France,0,2023-09-04,Referral,1
+CUS-00429,cust00429@example.com,Consumer,NULL,Canada,0,2023-09-07,Marketplace,1
+CUS-00430,cust00430@example.com,Consumer,NULL,United Kingdom,0,2023-09-07,Organic Search,1
+CUS-00431,cust00431@example.com,Consumer,NULL,Singapore,0,2023-09-09,Referral,1
+CUS-00432,cust00432@example.com,Consumer,NULL,Deutschland,0,2023-09-11,Email Campaign,1
+CUS-00433,cust00433@example.com,Consumer,NULL,Australia,0,2023-09-13,Paid Social,1
+CUS-00434,cust00434@example.com,Consumer,NULL,Singapore,0,2023-09-13,Organic Search,1
+CUS-00435,cust00435@example.com,Consumer,NULL,Australia,0,2023-09-14,Paid Social,0
+CUS-00436,cust00436@example.com,Consumer,NULL,United States,0,2023-09-15,Marketplace,1
+CUS-00437,cust00437@example.com,Consumer,NULL,Australia,0,2023-09-18,Email Campaign,0
+CUS-00438,cust00438@example.com,Consumer,NULL,Canada,0,2023-09-20,Direct,1
+CUS-00439,cust00439@example.com,Consumer,NULL,Australia,0,2023-09-20,Marketplace,0
+CUS-00440,cust00440@example.com,Consumer,NULL,Australia,0,2023-09-21,Marketplace,1
+CUS-00441,cust00441@example.com,Consumer,NULL,Unknown,0,2023-09-21,Marketplace,1
+CUS-00442,cust00442@example.com,Consumer,NULL,United States,0,2023-09-22,Email Campaign,1
+CUS-00443,cust00443@example.com,Consumer,NULL,United Kingdom,0,2023-09-22,Direct,1
+CUS-00444,cust00444@example.com,Consumer,NULL,United States,0,2023-09-22,Referral,1
+CUS-00445,cust00445@example.com,Consumer,NULL,United States,0,2023-09-23,Marketplace,0
+CUS-00446,cust00446@example.com,Consumer,NULL,United Kingdom,0,2023-09-23,Email Campaign,1
+CUS-00447,cust00447@example.com,Consumer,NULL,Canada,0,2023-09-25,Organic Search,1
+CUS-00448,cust00448@example.com,Consumer,NULL,United States,0,2023-09-27,Organic Search,1
+CUS-00449,cust00449@example.com,Consumer,NULL,United States,0,2023-09-28,Paid Social,1
+CUS-00450,cust00450@example.com,Consumer,NULL,United States,0,2023-09-28,Marketplace,1
+CUS-00451,cust00451@example.com,Consumer,NULL,United Kingdom,0,2023-09-29,Marketplace,0
+CUS-00452,cust00452@example.com,Consumer,NULL,Australia,0,2023-09-29,Organic Search,1
+CUS-00453,cust00453@example.com,Consumer,NULL,United Kingdom,0,2023-09-29,Marketplace,1
+CUS-00454,cust00454@example.com,Consumer,NULL,Unknown,0,2023-10-01,Marketplace,1
+CUS-00455,cust00455@example.com,Consumer,NULL,Canada,0,2023-10-01,Marketplace,1
+CUS-00456,cust00456@example.com,Consumer,NULL,Australia,0,2023-10-02,Marketplace,1
+CUS-00457,cust00457@example.com,Consumer,NULL,United States,0,2023-10-03,Organic Search,1
+CUS-00458,cust00458@example.com,Consumer,NULL,United States,0,2023-10-05,Organic Search,0
+CUS-00459,cust00459@example.com,Consumer,NULL,United States,0,2023-10-06,Marketplace,1
+CUS-00460,cust00460@example.com,Consumer,NULL,Australia,0,2023-10-06,Organic Search,1
+CUS-00461,cust00461@example.com,Consumer,NULL,Canada,0,2023-10-07,Paid Social,1
+CUS-00462,cust00462@example.com,Consumer,NULL,United States,0,2023-10-09,Organic Search,1
+CUS-00463,cust00463@example.com,Consumer,NULL,Singapore,0,2023-10-10,Referral,1
+CUS-00464,cust00464@example.com,Consumer,NULL,United Kingdom,0,2023-10-10,Marketplace,1
+CUS-00465,cust00465@example.net,Business,Specialty Retailer,United States,0,2023-10-10,Wholesale Sales Team,0
+CUS-00466,cust00466@example.com,Consumer,NULL,Australia,0,2023-10-14,Paid Social,0
+CUS-00467,cust00467@example.com,Consumer,NULL,South Africa,0,2023-10-15,Paid Social,0
+CUS-00468,cust00468@example.com,Consumer,NULL,United Kingdom,0,2023-10-16,Marketplace,1
+CUS-00469,cust00469@example.com,Consumer,NULL,Australia,0,2023-10-17,Direct,1
+CUS-00470,cust00470@example.com,Consumer,NULL,United States,0,2023-10-19,Organic Search,0
+CUS-00471,cust00471@example.com,Consumer,NULL,United States,0,2023-10-19,Referral,1
+CUS-00472,cust00472@example.com,Consumer,NULL,United States,0,2023-10-19,Direct,0
+CUS-00473,cust00473@example.com,Consumer,NULL,United States,0,2023-10-21,Referral,1
+CUS-00474,cust00474@example.com,Consumer,NULL,Germany,0,2023-10-23,Referral,1
+CUS-00475,cust00475@example.com,Consumer,NULL,United States,0,2023-10-23,Email Campaign,1
+CUS-00476,cust00476@example.com,Consumer,NULL,United States,0,2023-10-24,Marketplace,0
+CUS-00477,cust00477@example.com,Consumer,NULL,United States,0,2023-10-24,Email Campaign,0
+CUS-00478,cust00478@example.net,Business,Specialty Retailer,United States,0,2023-10-24,Trade Show,1
+CUS-00479,cust00479@example.com,Consumer,NULL,United States,0,2023-10-25,Marketplace,0
+CUS-00480,cust00480@example.com,Consumer,NULL,Germany,0,2023-10-27,Paid Social,1
+CUS-00481,NULL,Consumer,NULL,Germany,0,2023-10-28,Marketplace,1
+CUS-00482,cust00482@example.com,Consumer,NULL,South Africa,0,2023-10-29,Marketplace,0
+CUS-00483,cust00483@example.com,Consumer,NULL,United States,0,2023-10-30,Referral,1
+CUS-00484,cust00484@example.com,Consumer,NULL,Australia,0,2023-11-01,Direct,1
+CUS-00485,cust00485@example.com,Consumer,NULL,United Kingdom,0,2023-11-01,Direct,1
+CUS-00486,cust00486@example.com,Consumer,NULL,Canada,0,2023-11-01,Organic Search,1
+CUS-00487,cust00487@example.com,Consumer,NULL,United States,0,2023-11-02,Referral,0
+CUS-00488,cust00488@example.com,Consumer,NULL,United Kingdom,0,2023-11-03,Paid Social,0
+CUS-00489,cust00489@example.com,Consumer,NULL,United States,0,2023-11-03,Organic Search,0
+CUS-00490,cust00490@example.com,Consumer,NULL,Canada,0,2023-11-03,Paid Social,0
+CUS-00491,cust00491@example.com,Consumer,NULL,Canada,0,2023-11-04,Organic Search,0
+CUS-00492,cust00492@example.com,Consumer,NULL,United States,0,2023-11-04,Marketplace,1
+CUS-00493,cust00493@example.com,Consumer,NULL,United States,0,2023-11-04,Referral,1
+CUS-00494,cust00494@example.com,Consumer,NULL,United States,0,2023-11-05,Marketplace,0
+CUS-00495,cust00495@example.com,Consumer,NULL,Singapore,0,2023-11-06,Organic Search,1
+CUS-00496,cust00496@example.com,Consumer,NULL,Australia,0,2023-11-08,Paid Social,1
+CUS-00497,cust00497@example.com,Consumer,NULL,Australia,0,2023-11-08,Marketplace,1
+CUS-00498,cust00498@example.com,Consumer,NULL,United States,0,2023-11-08,Referral,1
+CUS-00499,cust00499@example.com,Consumer,NULL,Germany,0,2023-11-09,Organic Search,1
+CUS-00500,cust00500@example.net,Business,Specialty Retailer,Canada,0,2023-11-09,Trade Show,0
+CUS-00501,cust00501@example.com,Consumer,NULL,United Kingdom,0,2023-11-10,Email Campaign,1
+CUS-00502,cust00502@example.com,Consumer,NULL,United States,0,2023-11-10,Organic Search,0
+CUS-00503,cust00503@example.com,Consumer,NULL,France,0,2023-11-10,Direct,0
+CUS-00504,cust00504@example.com,Consumer,NULL,United Kingdom,0,2023-11-10,Organic Search,0
+CUS-00505,cust00505@example.com,Consumer,NULL,Australia,0,2023-11-10,Paid Social,1
+CUS-00506,cust00506@example.com,Consumer,NULL,United Kingdom,0,2023-11-10,Marketplace,1
+CUS-00507,cust00507@example.com,Consumer,NULL,Canada,0,2023-11-11,Organic Search,1
+CUS-00508,cust00508@example.com,Consumer,NULL,Germany,0,2023-11-13,Marketplace,1
+CUS-00509,cust00509@example.com,Consumer,NULL,Australia,0,2023-11-13,Organic Search,1
+CUS-00510,cust00510@example.com,Consumer,NULL,United States,0,2023-11-13,Paid Social,1
+CUS-00511,cust00511@example.com,Consumer,NULL,France,0,2023-11-14,Email Campaign,0
+CUS-00512,cust00512@example.com,Consumer,NULL,Australia,0,2023-11-14,Marketplace,0
+CUS-00513,cust00513@example.com,Consumer,NULL,United States,0,2023-11-15,Marketplace,0
+CUS-00514,cust00514@example.com,Consumer,NULL,United Kingdom,0,2023-11-16,Organic Search,1
+CUS-00515,cust00515@example.com,Consumer,NULL,United States,0,2023-11-16,Referral,0
+CUS-00516,cust00516@example.com,Consumer,NULL,United States,0,2023-11-16,Organic Search,0
+CUS-00517,cust00517@example.com,Consumer,NULL,Canada,0,2023-11-16,Paid Social,0
+CUS-00518,cust00518@example.com,Consumer,NULL,United States,0,2023-11-18,Marketplace,1
+CUS-00519,cust00519@example.com,Consumer,NULL,France,0,2023-11-18,Paid Social,1
+CUS-00520,cust00520@example.com,Consumer,NULL,France,0,2023-11-19,Organic Search,0
+CUS-00521,cust00521@example.com,Consumer,NULL,Australia,0,2023-11-19,Marketplace,1
+CUS-00522,cust00522@example.com,Consumer,NULL,United States,0,2023-11-19,Marketplace,1
+CUS-00523,cust00523@example.com,Consumer,NULL,Canada,0,2023-11-19,Marketplace,1
+CUS-00524,cust00524@example.com,Consumer,NULL,France,0,2023-11-19,Marketplace,1
+CUS-00525,cust00525@example.com,Consumer,NULL,United States,0,2023-11-19,Paid Social,0
+CUS-00526,cust00526@example.com,Consumer,NULL,Germany,0,2023-11-19,Direct,0
+CUS-00527,cust00527@example.com,Consumer,NULL,United States,0,2023-11-20,Referral,1
+CUS-00528,cust00528@example.com,Consumer,NULL,United Kingdom,0,2023-11-20,Email Campaign,1
+CUS-00529,cust00529@example.com,Consumer,NULL,Australia,0,2023-11-21,Referral,1
+CUS-00530,cust00530@example.com,Consumer,NULL,United States,0,2023-11-23,Paid Social,1
+CUS-00531,cust00531@example.com,Consumer,NULL,South Africa,0,2023-11-23,Paid Social,0
+CUS-00532,cust00532@example.com,Consumer,NULL,Canada,0,2023-11-23,Organic Search,1
+CUS-00533,cust00533@example.com,Consumer,NULL,United States,0,2023-11-24,Organic Search,1
+CUS-00534,cust00534@example.com,Consumer,NULL,Canada,0,2023-11-24,Organic Search,1
+CUS-00535,cust00535@example.com,Consumer,NULL,United States,0,2023-11-24,Paid Social,1
+CUS-00536,cust00536@example.net,Business,Corporate / Organisation,United Kingdom,0,2023-11-24,Wholesale Sales Team,1
+CUS-00537,cust00537@example.com,Consumer,NULL,Australia,0,2023-11-27,Referral,1
+CUS-00538,cust00538@example.com,Consumer,NULL,United States,0,2023-11-27,Direct,1
+CUS-00539,cust00539@example.com,Consumer,NULL,Australia,0,2023-11-28,Email Campaign,1
+CUS-00540,cust00540@example.com,Consumer,NULL,United States,0,2023-11-28,Marketplace,0
+CUS-00541,cust00541@example.com,Consumer,NULL,France,0,2023-11-28,Paid Social,1
+CUS-00542,cust00542@example.com,Consumer,NULL,Germany,0,2023-11-28,Paid Social,1
+CUS-00543,cust00543@example.com,Consumer,NULL,Australia,0,2023-11-29,Organic Search,1
+CUS-00544,cust00544@example.com,Consumer,NULL,United States,0,2023-12-02,Paid Social,1
+CUS-00545,cust00545@example.com,Consumer,NULL,"Germany ",0,2023-12-02,Marketplace,0
+CUS-00546,cust00546@example.net,Business,Specialty Retailer,Australia,0,2023-12-02,Trade Show,0
+CUS-00547,cust00547@example.com,Consumer,NULL,Unknown,0,2023-12-03,Direct,0
+CUS-00548,cust00548@example.com,Consumer,NULL,United States,0,2023-12-03,Email Campaign,1
+CUS-00549,cust00549@example.com,Consumer,NULL,United Kingdom,0,2023-12-03,Paid Social,0
+CUS-00550,cust00550@example.com,Consumer,NULL,United States,0,2023-12-04,Marketplace,1
+CUS-00551,cust00551@example.com,Consumer,NULL,South Africa,0,2023-12-05,Referral,0
+CUS-00552,cust00552@example.com,Consumer,NULL,United States,0,2023-12-06,Paid Social,1
+CUS-00553,cust00553@example.com,Consumer,NULL,United States,0,2023-12-07,Email Campaign,0
+CUS-00554,cust00554@example.com,Consumer,NULL,Germany,0,2023-12-07,Marketplace,1
+CUS-00555,cust00555@example.com,Consumer,NULL,Germany,0,2023-12-08,Marketplace,0
+CUS-00556,cust00556@example.com,Consumer,NULL,United Kingdom,0,2023-12-09,Organic Search,1
+CUS-00557,cust00557@example.com,Consumer,NULL,Germany,0,2023-12-09,Organic Search,1
+CUS-00558,cust00558@example.com,Consumer,NULL,United States,0,2023-12-09,Email Campaign,1
+CUS-00559,cust00559@example.com,Consumer,NULL,Australia,0,2023-12-11,Referral,0
+CUS-00560,cust00560@example.com,Consumer,NULL,France,0,2023-12-12,Marketplace,1
+CUS-00561,cust00561@example.com,Consumer,NULL,France,0,2023-12-12,Marketplace,1
+CUS-00562,cust00562@example.com,Consumer,NULL,Australia,0,2023-12-12,Direct,1
+CUS-00563,cust00563@example.com,Consumer,NULL,Australia,0,2023-12-12,Organic Search,0
+CUS-00564,cust00564@example.com,Consumer,NULL,Australia,0,2023-12-13,Paid Social,1
+CUS-00565,cust00565@example.com,Consumer,NULL,Canada,0,2023-12-14,Direct,1
+CUS-00566,cust00566@example.com,Consumer,NULL,United States,0,2023-12-15,Marketplace,0
+CUS-00567,cust00567@example.com,Consumer,NULL,United States,0,2023-12-15,Organic Search,1
+CUS-00568,cust00568@example.com,Consumer,NULL,Singapore,0,2023-12-16,Paid Social,0
+CUS-00569,cust00569@example.com,Consumer,NULL,France,0,2023-12-16,Marketplace,1
+CUS-00570,cust00570@example.com,Consumer,NULL,United States,0,2023-12-17,Organic Search,1
+CUS-00571,cust00571@example.com,Consumer,NULL,Singapore,0,2023-12-17,Marketplace,1
+CUS-00572,cust00572@example.com,Consumer,NULL,United States,0,2023-12-17,Marketplace,0
+CUS-00573,cust00573@example.com,Consumer,NULL,United States,0,2023-12-18,Direct,0
+CUS-00574,cust00574@example.com,Consumer,NULL,United States,0,2023-12-19,Marketplace,0
+CUS-00575,cust00575@example.com,Consumer,NULL,United States,0,2023-12-19,Referral,0
+CUS-00576,cust00576@example.com,Consumer,NULL,Canada,0,2023-12-19,Marketplace,1
+CUS-00577,cust00577@example.com,Consumer,NULL,South Africa,0,2023-12-19,Organic Search,1
+CUS-00578,cust00578@example.com,Consumer,NULL,Canada,0,2023-12-20,Email Campaign,1
+CUS-00579,cust00579@example.com,Consumer,NULL,United Kingdom,0,2023-12-21,Paid Social,0
+CUS-00580,cust00580@example.com,Consumer,NULL,United States,0,2023-12-21,Marketplace,0
+CUS-00581,cust00581@example.com,Consumer,NULL,Australia,0,2023-12-22,Organic Search,1
+CUS-00582,cust00582@example.com,Consumer,NULL,Germany,0,2023-12-23,Email Campaign,1
+CUS-00583,cust00583@example.com,Consumer,NULL,Australia,0,2023-12-23,Email Campaign,0
+CUS-00584,cust00584@example.com,Consumer,NULL,Australia,0,2023-12-23,Marketplace,1
+CUS-00585,cust00585@example.com,Consumer,NULL,Germany,0,2023-12-24,Organic Search,0
+CUS-00586,cust00586@example.com,Consumer,NULL,United States,0,2023-12-24,Referral,0
+CUS-00587,cust00587@example.com,Consumer,NULL,Unknown,0,2023-12-25,Marketplace,0
+CUS-00588,cust00588@example.com,Consumer,NULL,Canada,0,2023-12-25,Marketplace,1
+CUS-00589,cust00589@example.com,Consumer,NULL,Germany,0,2023-12-26,Marketplace,1
+CUS-00590,cust00590@example.com,Consumer,NULL,Canada,0,2023-12-26,Direct,1
+CUS-00591,cust00591@example.com,Consumer,NULL,Canada,0,2023-12-27,Paid Social,1
+CUS-00592,cust00592@example.com,Consumer,NULL,United States,0,2023-12-27,Organic Search,1
+CUS-00593,cust00593@example.com,Consumer,NULL,United States,0,2023-12-28,Marketplace,0
+CUS-00594,cust00594@example.com,Consumer,NULL,United Kingdom,0,2023-12-28,Marketplace,1
+CUS-00595,cust00595@example.com,Consumer,NULL,Canada,0,2023-12-28,Marketplace,0
+CUS-00596,cust00596@example.com,Consumer,NULL,United States,0,2023-12-29,Marketplace,1
+CUS-00597,cust00597@example.com,Consumer,NULL,Australia,0,2023-12-29,Organic Search,1
+CUS-00598,cust00598@example.com,Consumer,NULL,United States,0,2023-12-29,Marketplace,1
+CUS-00599,cust00599@example.com,Consumer,NULL,Canada,0,2023-12-29,Marketplace,1
+CUS-00600,cust00600@example.com,Consumer,NULL,United States,0,2023-12-29,Paid Social,1
+CUS-00601,cust00601@example.com,Consumer,NULL,United States,0,2023-12-29,Marketplace,1
+CUS-00602,cust00602@example.com,Consumer,NULL,Germany,0,2023-12-30,Paid Social,0
+CUS-00603,cust00603@example.com,Consumer,NULL,United States,0,2023-12-30,Email Campaign,1
+CUS-00604,cust00604@example.com,Consumer,NULL,United States,0,2023-12-30,Paid Social,1
+CUS-00605,cust00605@example.com,Consumer,NULL,Canada,0,2023-12-30,Marketplace,1
+CUS-00606,cust00606@example.com,Consumer,NULL,United Kingdom,0,2023-12-30,Marketplace,1
+CUS-00607,cust00607@example.com,Consumer,NULL,South Africa,0,2024-01-01,Organic Search,1
+CUS-00608,cust00608@example.com,Consumer,NULL,United States,0,2024-01-01,Paid Social,0
+CUS-00609,cust00609@example.com,Consumer,NULL,Germany,0,2024-01-02,Marketplace,1
+CUS-00610,cust00610@example.com,Consumer,NULL,Singapore,0,2024-01-04,Marketplace,1
+CUS-00611,cust00611@example.com,Consumer,NULL,United States,0,2024-01-05,Marketplace,0
+CUS-00612,cust00612@example.com,Consumer,NULL,United States,0,2024-01-05,Paid Social,0
+CUS-00613,cust00613@example.com,Consumer,NULL,Australia,0,2024-01-06,Organic Search,1
+CUS-00614,cust00614@example.com,Consumer,NULL,Australia,0,2024-01-08,Organic Search,1
+CUS-00615,cust00615@example.com,Consumer,NULL,United States,0,2024-01-09,Organic Search,1
+CUS-00616,cust00616@example.com,Consumer,NULL,Singapore,0,2024-01-09,Direct,1
+CUS-00617,cust00617@example.com,Consumer,NULL,United States,0,2024-01-10,Referral,0
+CUS-00618,cust00618@example.com,Consumer,NULL,Australia,0,2024-01-11,Marketplace,1
+CUS-00619,cust00619@example.com,Consumer,NULL,Canada,0,2024-01-11,Paid Social,1
+CUS-00620,cust00620@example.com,Consumer,NULL,Germany,0,2024-01-11,Paid Social,1
+CUS-00621,cust00621@example.com,Consumer,NULL,Australia,0,2024-01-12,Organic Search,1
+CUS-00622,cust00622@example.com,Consumer,NULL,United States,0,2024-01-13,Marketplace,1
+CUS-00623,cust00623@example.com,Consumer,NULL,United States,0,2024-01-14,Marketplace,0
+CUS-00624,cust00624@example.com,Consumer,NULL,United Kingdom,0,2024-01-15,Paid Social,1
+CUS-00625,cust00625@example.com,Consumer,NULL,United States,0,2024-01-15,Marketplace,0
+CUS-00626,cust00626@example.com,Consumer,NULL,United States,0,2024-01-16,Organic Search,1
+CUS-00627,cust00627@example.com,Consumer,NULL,South Africa,0,2024-01-17,Organic Search,0
+CUS-00628,cust00628@example.com,Consumer,NULL,Australia,0,2024-01-17,Organic Search,1
+CUS-00629,cust00629@example.com,Consumer,NULL,Australia,0,2024-01-17,Marketplace,0
+CUS-00630,cust00630@example.net,Business,Specialty Retailer,France,0,2024-01-17,Wholesale Sales Team,0
+CUS-00631,cust00631@example.com,Consumer,NULL,South Africa,0,2024-01-20,Marketplace,1
+CUS-00632,cust00632@example.net,Business,Specialty Retailer,United States,0,2024-01-20,Wholesale Sales Team,0
+CUS-00633,cust00633@example.com,Consumer,NULL,United Kingdom,0,2024-01-21,Paid Social,1
+CUS-00634,cust00634@example.com,Consumer,NULL,United Kingdom,0,2024-01-22,Marketplace,1
+CUS-00635,cust00635@example.com,Consumer,NULL,Germany,0,2024-01-22,Marketplace,0
+CUS-00636,cust00636@example.com,Consumer,NULL,United States,0,2024-01-22,Paid Social,1
+CUS-00637,cust00637@example.com,Consumer,NULL,Germany,0,2024-01-23,Referral,1
+CUS-00638,cust00638@example.com,Consumer,NULL,Germany,0,2024-01-24,Direct,1
+CUS-00639,cust00639@example.com,Consumer,NULL,Canada,0,2024-01-24,Paid Social,1
+CUS-00640,cust00640@example.com,Consumer,NULL,United States,0,2024-01-24,Marketplace,1
+CUS-00641,cust00641@example.com,Consumer,NULL,France,0,2024-01-25,Marketplace,0
+CUS-00642,cust00642@example.com,Consumer,NULL,United States,0,2024-01-25,Organic Search,1
+CUS-00643,cust00643@example.com,Consumer,NULL,Canada,0,2024-01-27,Marketplace,1
+CUS-00644,cust00644@example.com,Consumer,NULL,Germany,0,2024-01-28,Marketplace,0
+CUS-00645,cust00645@example.com,Consumer,NULL,Australia,0,2024-01-28,Referral,0
+CUS-00646,cust00646@example.com,Consumer,NULL,South Africa,0,2024-01-28,Paid Social,1
+CUS-00647,cust00647@example.com,Consumer,NULL,Australia,0,2024-01-29,Email Campaign,0
+CUS-00648,cust00648@example.com,Consumer,NULL,United States,0,2024-01-29,Paid Social,0
+CUS-00649,cust00649@example.com,Consumer,NULL,United Kingdom,0,2024-01-31,Organic Search,1
+CUS-00650,cust00650@example.com,Consumer,NULL,Germany,0,2024-02-01,Paid Social,0
+CUS-00651,cust00651@example.com,Consumer,NULL,United States,0,2024-02-02,Direct,0
+CUS-00652,cust00652@example.com,Consumer,NULL,United States,0,2024-02-03,Email Campaign,0
+CUS-00653,cust00653@example.com,Consumer,NULL,United States,0,2024-02-03,Organic Search,0
+CUS-00654,cust00654@example.com,Consumer,NULL,South Africa,0,2024-02-03,Organic Search,1
+CUS-00655,cust00655@example.com,Consumer,NULL,United States,0,2024-02-04,Referral,0
+CUS-00656,NULL,Consumer,NULL,United States,0,2024-02-04,Marketplace,1
+CUS-00657,cust00657@example.com,Consumer,NULL,United States,0,2024-02-04,Organic Search,1
+CUS-00658,cust00658@example.com,Consumer,NULL,United States,0,2024-02-04,Direct,1
+CUS-00659,cust00659@example.com,Consumer,NULL,United Kingdom,0,2024-02-05,Direct,1
+CUS-00660,cust00660@example.com,Consumer,NULL,United Arab Emirates,0,2024-02-05,Direct,1
+CUS-00661,cust00661@example.net,Business,Specialty Retailer,United Arab Emirates,0,2024-02-05,Trade Show,0
+CUS-00662,cust00662@example.com,Consumer,NULL,Canada,0,2024-02-06,Marketplace,0
+CUS-00663,cust00663@example.com,Consumer,NULL,Canada,0,2024-02-07,Email Campaign,1
+CUS-00664,cust00664@example.com,Consumer,NULL,United States,0,2024-02-08,Marketplace,1
+CUS-00665,cust00665@example.com,Consumer,NULL,Unknown,0,2024-02-09,Marketplace,1
+CUS-00666,cust00666@example.com,Consumer,NULL,United States,0,2024-02-09,Marketplace,0
+CUS-00667,cust00667@example.com,Consumer,NULL,United States,0,2024-02-09,Email Campaign,1
+CUS-00668,cust00668@example.com,Consumer,NULL,United States,0,2024-02-09,Marketplace,0
+CUS-00669,cust00669@example.com,Consumer,NULL,United Kingdom,0,2024-02-09,Marketplace,1
+CUS-00670,cust00670@example.com,Consumer,NULL,United States,0,2024-02-10,Paid Social,0
+CUS-00671,cust00671@example.com,Consumer,NULL,South Africa,0,2024-02-11,Marketplace,0
+CUS-00672,cust00672@example.com,Consumer,NULL,United States,0,2024-02-12,Marketplace,1
+CUS-00673,cust00673@example.com,Consumer,NULL,United Kingdom,0,2024-02-13,Marketplace,1
+CUS-00674,cust00674@example.com,Consumer,NULL,United Arab Emirates,0,2024-02-14,Marketplace,0
+CUS-00675,cust00675@example.com,Consumer,NULL,United Kingdom,0,2024-02-15,Marketplace,1
+CUS-00676,cust00676@example.com,Consumer,NULL,United Kingdom,0,2024-02-16,Organic Search,0
+CUS-00677,cust00677@example.com,Consumer,NULL,Australia,0,2024-02-16,Marketplace,1
+CUS-00678,cust00678@example.com,Consumer,NULL,United Kingdom,0,2024-02-16,Marketplace,1
+CUS-00679,cust00679@example.com,Consumer,NULL,South Africa,0,2024-02-16,Marketplace,0
+CUS-00680,cust00680@example.com,Consumer,NULL,Australia,0,2024-02-17,Marketplace,1
+CUS-00681,cust00681@example.com,Consumer,NULL,Australia,0,2024-02-19,Marketplace,1
+CUS-00682,cust00682@example.com,Consumer,NULL,United States,0,2024-02-19,Marketplace,0
+CUS-00683,cust00683@example.com,Consumer,NULL,United States,0,2024-02-19,Paid Social,1
+CUS-00684,cust00684@example.net,Business,Corporate / Organisation,France,0,2024-02-20,Wholesale Sales Team,0
+CUS-00685,cust00685@example.com,Consumer,NULL,United Arab Emirates,0,2024-02-21,Referral,1
+CUS-00686,cust00686@example.com,Consumer,NULL,United States,0,2024-02-22,Marketplace,0
+CUS-00687,cust00687@example.com,Consumer,NULL,Australia,0,2024-02-23,Marketplace,0
+CUS-00688,cust00688@example.com,Consumer,NULL,United Kingdom,0,2024-02-23,Direct,1
+CUS-00689,cust00689@example.com,Consumer,NULL,United States,0,2024-02-24,Marketplace,1
+CUS-00690,cust00690@example.com,Consumer,NULL,United Kingdom,0,2024-02-24,Direct,1
+CUS-00691,cust00691@example.com,Consumer,NULL,United States,0,2024-02-25,Marketplace,0
+CUS-00692,cust00692@example.com,Consumer,NULL,France,0,2024-02-25,Direct,0
+CUS-00693,cust00693@example.com,Consumer,NULL,United Arab Emirates,0,2024-02-26,Paid Social,1
+CUS-00694,cust00694@example.com,Consumer,NULL,United Kingdom,0,2024-02-26,Organic Search,1
+CUS-00695,cust00695@example.com,Consumer,NULL,United States,0,2024-02-27,Organic Search,1
+CUS-00696,cust00696@example.com,Consumer,NULL,United States,0,2024-02-28,Organic Search,1
+CUS-00697,cust00697@example.com,Consumer,NULL,South Africa,0,2024-02-29,Marketplace,1
+CUS-00698,cust00698@example.com,Consumer,NULL,United States,0,2024-02-29,Marketplace,0
+CUS-00699,cust00699@example.com,Consumer,NULL,United States,0,2024-02-29,Marketplace,1
+CUS-00700,cust00700@example.com,Consumer,NULL,United Kingdom,0,2024-03-01,Marketplace,1
+CUS-00701,cust00701@example.com,Consumer,NULL,Australia,0,2024-03-01,Paid Social,0
+CUS-00702,cust00702@example.com,Consumer,NULL,United States,0,2024-03-01,Paid Social,1
+CUS-00703,cust00703@example.com,Consumer,NULL,Australia,0,2024-03-02,Organic Search,1
+CUS-00704,cust00704@example.com,Consumer,NULL,Germany,0,2024-03-03,Direct,1
+CUS-00705,cust00705@example.com,Consumer,NULL,United Kingdom,0,2024-03-03,Marketplace,0
+CUS-00706,cust00706@example.com,Consumer,NULL,United States,0,2024-03-03,Marketplace,1
+CUS-00707,cust00707@example.com,Consumer,NULL,United States,0,2024-03-04,Marketplace,0
+CUS-00708,cust00708@example.com,Consumer,NULL,France,0,2024-03-04,Paid Social,1
+CUS-00709,cust00709@example.com,Consumer,NULL,United States,0,2024-03-05,Paid Social,1
+CUS-00710,cust00710@example.com,Consumer,NULL,United States,0,2024-03-06,Paid Social,0
+CUS-00711,cust00711@example.com,Consumer,NULL,United Kingdom,0,2024-03-06,Paid Social,1
+CUS-00712,cust00712@example.com,Consumer,NULL,United States,0,2024-03-06,Referral,0
+CUS-00713,cust00713@example.com,Consumer,NULL,Germany,0,2024-03-07,Marketplace,1
+CUS-00714,cust00714@example.com,Consumer,NULL,Canada,0,2024-03-07,Organic Search,0
+CUS-00715,cust00715@example.com,Consumer,NULL,Germany,0,2024-03-08,Organic Search,1
+CUS-00716,cust00716@example.com,Consumer,NULL,United States,0,2024-03-08,Organic Search,1
+CUS-00717,cust00717@example.com,Consumer,NULL,Germany,0,2024-03-09,Marketplace,1
+CUS-00718,cust00718@example.com,Consumer,NULL,United Kingdom,0,2024-03-10,Marketplace,1
+CUS-00719,cust00719@example.com,Consumer,NULL,United States,0,2024-03-11,Marketplace,0
+CUS-00720,cust00720@example.com,Consumer,NULL,United Kingdom,0,2024-03-12,Paid Social,1
+CUS-00721,cust00721@example.com,Consumer,NULL,Unknown,0,2024-03-12,Marketplace,0
+CUS-00722,cust00722@example.com,Consumer,NULL,United Kingdom,0,2024-03-13,Referral,0
+CUS-00723,cust00723@example.com,Consumer,NULL,United Kingdom,0,2024-03-14,Marketplace,1
+CUS-00724,cust00724@example.com,Consumer,NULL,Singapore,0,2024-03-14,Email Campaign,0
+CUS-00725,cust00725@example.com,Consumer,NULL,United States,0,2024-03-15,Organic Search,0
+CUS-00726,cust00726@example.com,Consumer,NULL,United States,0,2024-03-15,Marketplace,0
+CUS-00727,cust00727@example.com,Consumer,NULL,South Africa,0,2024-03-15,Direct,1
+CUS-00728,cust00728@example.com,Consumer,NULL,Germany,0,2024-03-16,Direct,1
+CUS-00729,cust00729@example.com,Consumer,NULL,Australia,0,2024-03-16,Marketplace,1
+CUS-00730,cust00730@example.com,Consumer,NULL,Singapore,0,2024-03-17,Referral,1
+CUS-00731,cust00731@example.com,Consumer,NULL,Canada,0,2024-03-17,Referral,0
+CUS-00732,cust00732@example.com,Consumer,NULL,South Africa,0,2024-03-18,Marketplace,0
+CUS-00733,cust00733@example.com,Consumer,NULL,Unknown,0,2024-03-19,Direct,0
+CUS-00734,cust00734@example.com,Consumer,NULL,United States,0,2024-03-21,Email Campaign,0
+CUS-00735,NULL,Consumer,NULL,United Kingdom,0,2024-03-22,Organic Search,1
+CUS-00736,cust00736@example.com,Consumer,NULL,United Arab Emirates,0,2024-03-22,Paid Social,1
+CUS-00737,cust00737@example.com,Consumer,NULL,United States,0,2024-03-22,Organic Search,1
+CUS-00738,cust00738@example.com,Consumer,NULL,United States,0,2024-03-22,Organic Search,0
+CUS-00739,cust00739@example.com,Consumer,NULL,United Kingdom,0,2024-03-23,Marketplace,1
+CUS-00740,cust00740@example.com,Consumer,NULL,United States,0,2024-03-23,Referral,0
+CUS-00741,cust00741@example.com,Consumer,NULL,United States,0,2024-03-24,Paid Social,1
+CUS-00742,cust00742@example.com,Consumer,NULL,United States,0,2024-03-24,Organic Search,0
+CUS-00743,cust00743@example.com,Consumer,NULL,United Arab Emirates,0,2024-03-24,Paid Social,1
+CUS-00744,cust00744@example.com,Consumer,NULL,United States,0,2024-03-26,Marketplace,1
+CUS-00745,cust00745@example.com,Consumer,NULL,Australia,0,2024-03-27,Marketplace,1
+CUS-00746,cust00746@example.com,Consumer,NULL,United States,0,2024-03-28,Organic Search,1
+CUS-00747,cust00747@example.com,Consumer,NULL,United States,0,2024-03-28,Organic Search,1
+CUS-00748,cust00748@example.com,Consumer,NULL,United States,0,2024-03-29,Organic Search,0
+CUS-00749,cust00749@example.com,Consumer,NULL,Germany,0,2024-03-31,Organic Search,1
+CUS-00750,cust00750@example.com,Consumer,NULL,Germany,0,2024-03-31,Referral,1
+CUS-00751,cust00751@example.com,Consumer,NULL,Germany,0,2024-04-01,Marketplace,1
+CUS-00752,cust00752@example.com,Consumer,NULL,Australia,0,2024-04-02,Direct,0
+CUS-00753,cust00753@example.com,Consumer,NULL,United Kingdom,0,2024-04-02,Paid Social,0
+CUS-00754,cust00754@example.com,Consumer,NULL,United Kingdom,0,2024-04-02,Marketplace,1
+CUS-00755,cust00755@example.com,Consumer,NULL,France,0,2024-04-04,Email Campaign,1
+CUS-00756,cust00756@example.com,Consumer,NULL,Germany,0,2024-04-04,Organic Search,0
+CUS-00757,cust00757@example.com,Consumer,NULL,United Kingdom,0,2024-04-04,Marketplace,0
+CUS-00758,cust00758@example.com,Consumer,NULL,Singapore,0,2024-04-04,Email Campaign,0
+CUS-00759,cust00759@example.com,Consumer,NULL,Canada,0,2024-04-04,Organic Search,1
+CUS-00760,cust00760@example.com,Consumer,NULL,Australia,0,2024-04-06,Marketplace,0
+CUS-00761,cust00761@example.com,Consumer,NULL,United States,0,2024-04-06,Paid Social,0
+CUS-00762,cust00762@example.com,Consumer,NULL,United Arab Emirates,0,2024-04-06,Organic Search,1
+CUS-00763,cust00763@example.com,Consumer,NULL,United Kingdom,0,2024-04-07,Referral,1
+CUS-00764,cust00764@example.com,Consumer,NULL,Unknown,0,2024-04-07,Referral,1
+CUS-00765,cust00765@example.com,Consumer,NULL,South Africa,0,2024-04-07,Referral,0
+CUS-00766,cust00766@example.com,Consumer,NULL,France,0,2024-04-08,Marketplace,0
+CUS-00767,cust00767@example.com,Consumer,NULL,France,0,2024-04-09,Paid Social,1
+CUS-00768,cust00768@example.com,Consumer,NULL,United States,0,2024-04-09,Paid Social,1
+CUS-00769,cust00769@example.com,Consumer,NULL,South Africa,0,2024-04-09,Marketplace,1
+CUS-00770,cust00770@example.net,Business,Corporate / Organisation,United States,0,2024-04-09,Wholesale Sales Team,0
+CUS-00771,cust00771@example.com,Consumer,NULL,United States,0,2024-04-10,Marketplace,1
+CUS-00772,cust00772@example.com,Consumer,NULL,United States,0,2024-04-10,Paid Social,0
+CUS-00773,cust00773@example.com,Consumer,NULL,France,0,2024-04-10,Organic Search,0
+CUS-00774,cust00774@example.com,Consumer,NULL,United States,0,2024-04-11,Email Campaign,1
+CUS-00775,cust00775@example.com,Consumer,NULL,Australia,0,2024-04-11,Paid Social,1
+CUS-00776,cust00776@example.com,Consumer,NULL,United States,0,2024-04-12,Email Campaign,0
+CUS-00777,cust00777@example.com,Consumer,NULL,Germany,0,2024-04-12,Marketplace,1
+CUS-00778,cust00778@example.com,Consumer,NULL,Germany,0,2024-04-14,Email Campaign,1
+CUS-00779,cust00779@example.com,Consumer,NULL,United States,0,2024-04-14,Organic Search,1
+CUS-00780,cust00780@example.com,Consumer,NULL,Canada,0,2024-04-14,Marketplace,1
+CUS-00781,cust00781@example.com,Consumer,NULL,France,0,2024-04-14,Referral,1
+CUS-00782,cust00782@example.com,Consumer,NULL,Unknown,0,2024-04-15,Marketplace,0
+CUS-00783,cust00783@example.com,Consumer,NULL,Australia,0,2024-04-17,Referral,0
+CUS-00784,cust00784@example.com,Consumer,NULL,United States,0,2024-04-17,Organic Search,1
+CUS-00785,cust00785@example.com,Consumer,NULL,United Kingdom,0,2024-04-17,Organic Search,1
+CUS-00786,cust00786@example.com,Consumer,NULL,Singapore,0,2024-04-18,Organic Search,1
+CUS-00787,cust00787@example.com,Consumer,NULL,United Kingdom,0,2024-04-18,Marketplace,1
+CUS-00788,cust00788@example.com,Consumer,NULL,United States,0,2024-04-18,Marketplace,1
+CUS-00789,cust00789@example.com,Consumer,NULL,France,0,2024-04-19,Direct,1
+CUS-00790,cust00790@example.com,Consumer,NULL,United States,0,2024-04-21,Marketplace,1
+CUS-00791,cust00791@example.com,Consumer,NULL,United Arab Emirates,0,2024-04-21,Paid Social,1
+CUS-00792,cust00792@example.com,Consumer,NULL,Germany,0,2024-04-23,Marketplace,1
+CUS-00793,cust00793@example.com,Consumer,NULL,United Kingdom,0,2024-04-23,Marketplace,1
+CUS-00794,cust00794@example.com,Consumer,NULL,United Kingdom,0,2024-04-23,Paid Social,0
+CUS-00795,cust00795@example.com,Consumer,NULL,Canada,0,2024-04-23,Marketplace,1
+CUS-00796,cust00796@example.com,Consumer,NULL,United States,0,2024-04-24,Email Campaign,1
+CUS-00797,cust00797@example.com,Consumer,NULL,Australia,0,2024-04-24,Marketplace,0
+CUS-00798,cust00798@example.com,Consumer,NULL,Singapore,0,2024-04-25,Paid Social,1
+CUS-00799,cust00799@example.com,Consumer,NULL,United States,0,2024-04-25,Paid Social,1
+CUS-00800,cust00800@example.com,Consumer,NULL,Australia,0,2024-04-25,Email Campaign,1
+CUS-00801,cust00801@example.com,Consumer,NULL,United Kingdom,0,2024-04-25,Marketplace,1
+CUS-00802,cust00802@example.com,Consumer,NULL,"Germany ",0,2024-04-26,Marketplace,0
+CUS-00803,cust00803@example.com,Consumer,NULL,Germany,0,2024-04-27,Organic Search,0
+CUS-00804,cust00804@example.com,Consumer,NULL,Germany,0,2024-04-27,Marketplace,0
+CUS-00805,cust00805@example.com,Consumer,NULL,France,0,2024-04-27,Email Campaign,1
+CUS-00806,cust00806@example.com,Consumer,NULL,Singapore,0,2024-04-28,Paid Social,0
+CUS-00807,cust00807@example.com,Consumer,NULL,United Kingdom,0,2024-04-29,Marketplace,0
+CUS-00808,cust00808@example.com,Consumer,NULL,United States,0,2024-05-01,Marketplace,0
+CUS-00809,cust00809@example.com,Consumer,NULL,United States,0,2024-05-01,Marketplace,0
+CUS-00810,cust00810@example.com,Consumer,NULL,Canada,0,2024-05-02,Marketplace,1
+CUS-00811,cust00811@example.com,Consumer,NULL,United Kingdom,0,2024-05-02,Organic Search,1
+CUS-00812,cust00812@example.com,Consumer,NULL,Australia,0,2024-05-02,Direct,0
+CUS-00813,cust00813@example.com,Consumer,NULL,Germany,0,2024-05-02,Marketplace,1
+CUS-00814,cust00814@example.com,Consumer,NULL,United States,0,2024-05-03,Marketplace,1
+CUS-00815,cust00815@example.com,Consumer,NULL,United States,0,2024-05-03,Organic Search,0
+CUS-00816,cust00816@example.com,Consumer,NULL,United States,0,2024-05-04,Marketplace,1
+CUS-00817,cust00817@example.com,Consumer,NULL,United Kingdom,0,2024-05-05,Organic Search,1
+CUS-00818,cust00818@example.com,Consumer,NULL,United States,0,2024-05-05,Paid Social,1
+CUS-00819,cust00819@example.com,Consumer,NULL,United Arab Emirates,0,2024-05-05,Organic Search,1
+CUS-00820,cust00820@example.com,Consumer,NULL,United Kingdom,0,2024-05-05,Paid Social,0
+CUS-00821,cust00821@example.com,Consumer,NULL,United States,0,2024-05-07,Organic Search,1
+CUS-00822,cust00822@example.net,Business,Specialty Retailer,United Kingdom,0,2024-05-07,Wholesale Sales Team,1
+CUS-00823,cust00823@example.com,Consumer,NULL,Australia,0,2024-05-08,Marketplace,0
+CUS-00824,cust00824@example.com,Consumer,NULL,United States,0,2024-05-08,Marketplace,0
+CUS-00825,cust00825@example.com,Consumer,NULL,United States,0,2024-05-09,Direct,1
+CUS-00826,cust00826@example.com,Consumer,NULL,United States,0,2024-05-09,Paid Social,1
+CUS-00827,cust00827@example.com,Consumer,NULL,United Kingdom,0,2024-05-09,Paid Social,1
+CUS-00828,cust00828@example.com,Consumer,NULL,United States,0,2024-05-10,Direct,1
+CUS-00829,cust00829@example.com,Consumer,NULL,United Kingdom,0,2024-05-11,Paid Social,0
+CUS-00830,cust00830@example.com,Consumer,NULL,France,0,2024-05-11,Referral,1
+CUS-00831,cust00831@example.com,Consumer,NULL,United States,0,2024-05-12,Email Campaign,0
+CUS-00832,cust00832@example.com,Consumer,NULL,United States,0,2024-05-13,Marketplace,1
+CUS-00833,cust00833@example.com,Consumer,NULL,Germany,0,2024-05-13,Marketplace,0
+CUS-00834,cust00834@example.com,Consumer,NULL,United States,0,2024-05-13,Marketplace,1
+CUS-00835,cust00835@example.com,Consumer,NULL,United States,0,2024-05-13,Paid Social,0
+CUS-00836,cust00836@example.com,Consumer,NULL,Canada,0,2024-05-14,Organic Search,1
+CUS-00837,cust00837@example.com,Consumer,NULL,South Africa,0,2024-05-14,Marketplace,1
+CUS-00838,cust00838@example.com,Consumer,NULL,Australia,0,2024-05-14,Organic Search,1
+CUS-00839,cust00839@example.com,Consumer,NULL,Australia,0,2024-05-15,Organic Search,1
+CUS-00840,cust00840@example.com,Consumer,NULL,United States,0,2024-05-16,Paid Social,1
+CUS-00841,cust00841@example.com,Consumer,NULL,United States,0,2024-05-17,Marketplace,1
+CUS-00842,cust00842@example.com,Consumer,NULL,Germany,0,2024-05-17,Paid Social,0
+CUS-00843,cust00843@example.com,Consumer,NULL,Unknown,0,2024-05-17,Direct,0
+CUS-00844,cust00844@example.com,Consumer,NULL,Canada,0,2024-05-17,Paid Social,1
+CUS-00845,cust00845@example.com,Consumer,NULL,Canada,0,2024-05-18,Organic Search,0
+CUS-00846,cust00846@example.com,Consumer,NULL,United States,0,2024-05-18,Marketplace,1
+CUS-00847,cust00847@example.com,Consumer,NULL,United States,0,2024-05-19,Paid Social,1
+CUS-00848,cust00848@example.com,Consumer,NULL,Germany,0,2024-05-19,Organic Search,0
+CUS-00849,cust00849@example.com,Consumer,NULL,Australia,0,2024-05-20,Marketplace,1
+CUS-00850,cust00850@example.com,Consumer,NULL,United States,0,2024-05-21,Marketplace,1
+CUS-00851,cust00851@example.com,Consumer,NULL,Canada,0,2024-05-22,Marketplace,1
+CUS-00852,cust00852@example.com,Consumer,NULL,United Arab Emirates,0,2024-05-23,Organic Search,0
+CUS-00853,cust00853@example.com,Consumer,NULL,Germany,0,2024-05-24,Marketplace,0
+CUS-00854,cust00854@example.com,Consumer,NULL,Australia,0,2024-05-24,Marketplace,1
+CUS-00855,cust00855@example.com,Consumer,NULL,United States,0,2024-05-24,Organic Search,0
+CUS-00856,cust00856@example.com,Consumer,NULL,South Africa,0,2024-05-25,Direct,0
+CUS-00857,cust00857@example.com,Consumer,NULL,United Kingdom,0,2024-05-26,Marketplace,1
+CUS-00858,cust00858@example.com,Consumer,NULL,Singapore,0,2024-05-26,Marketplace,0
+CUS-00859,cust00859@example.com,Consumer,NULL,Germany,0,2024-05-26,Organic Search,0
+CUS-00860,cust00860@example.com,Consumer,NULL,South Africa,0,2024-05-26,Paid Social,0
+CUS-00861,cust00861@example.com,Consumer,NULL,United States,0,2024-05-26,Referral,1
+CUS-00862,cust00862@example.com,Consumer,NULL,United States,0,2024-05-27,Marketplace,1
+CUS-00863,cust00863@example.com,Consumer,NULL,United Arab Emirates,0,2024-05-27,Organic Search,1
+CUS-00864,cust00864@example.com,Consumer,NULL,France,0,2024-05-27,Organic Search,1
+CUS-00865,cust00865@example.com,Consumer,NULL,United Arab Emirates,0,2024-05-28,Paid Social,0
+CUS-00866,cust00866@example.com,Consumer,NULL,France,0,2024-05-28,Organic Search,0
+CUS-00867,cust00867@example.com,Consumer,NULL,United States,0,2024-05-29,Paid Social,1
+CUS-00868,cust00868@example.com,Consumer,NULL,United States,0,2024-05-30,Email Campaign,0
+CUS-00869,cust00869@example.com,Consumer,NULL,Australia,0,2024-05-31,Organic Search,0
+CUS-00870,cust00870@example.com,Consumer,NULL,Australia,0,2024-06-01,Referral,0
+CUS-00871,cust00871@example.com,Consumer,NULL,United States,0,2024-06-02,Direct,0
+CUS-00872,cust00872@example.com,Consumer,NULL,United States,0,2024-06-02,Marketplace,0
+CUS-00873,cust00873@example.com,Consumer,NULL,Australia,0,2024-06-02,Marketplace,1
+CUS-00874,cust00874@example.com,Consumer,NULL,Australia,0,2024-06-02,Paid Social,1
+CUS-00875,cust00875@example.com,Consumer,NULL,Germany,0,2024-06-03,Paid Social,1
+CUS-00876,cust00876@example.com,Consumer,NULL,United States,0,2024-06-03,Marketplace,0
+CUS-00877,cust00877@example.com,Consumer,NULL,Australia,0,2024-06-04,Marketplace,0
+CUS-00878,cust00878@example.com,Consumer,NULL,Deutschland,0,2024-06-05,Email Campaign,0
+CUS-00879,cust00879@example.com,Consumer,NULL,United States,0,2024-06-05,Marketplace,1
+CUS-00880,cust00880@example.com,Consumer,NULL,United States,0,2024-06-05,Marketplace,1
+CUS-00881,cust00881@example.com,Consumer,NULL,United Kingdom,0,2024-06-05,Organic Search,0
+CUS-00882,cust00882@example.com,Consumer,NULL,United Kingdom,0,2024-06-05,Direct,1
+CUS-00883,cust00883@example.com,Consumer,NULL,Australia,0,2024-06-06,Referral,1
+CUS-00884,cust00884@example.com,Consumer,NULL,United Arab Emirates,0,2024-06-07,Organic Search,1
+CUS-00885,cust00885@example.com,Consumer,NULL,United Kingdom,0,2024-06-07,Email Campaign,1
+CUS-00886,cust00886@example.com,Consumer,NULL,France,0,2024-06-07,Marketplace,0
+CUS-00887,cust00887@example.com,Consumer,NULL,Germany,0,2024-06-08,Paid Social,0
+CUS-00888,cust00888@example.com,Consumer,NULL,United States,0,2024-06-08,Marketplace,1
+CUS-00889,cust00889@example.com,Consumer,NULL,Canada,0,2024-06-09,Paid Social,1
+CUS-00890,cust00890@example.com,Consumer,NULL,Canada,0,2024-06-09,Paid Social,1
+CUS-00891,cust00891@example.com,Consumer,NULL,United States,0,2024-06-10,Marketplace,0
+CUS-00892,cust00892@example.com,Consumer,NULL,Australia,0,2024-06-11,Organic Search,1
+CUS-00893,cust00893@example.com,Consumer,NULL,Canada,0,2024-06-11,Organic Search,1
+CUS-00894,cust00894@example.com,Consumer,NULL,Germany,0,2024-06-11,Organic Search,1
+CUS-00895,cust00895@example.com,Consumer,NULL,United States,0,2024-06-12,Marketplace,1
+CUS-00896,cust00896@example.com,Consumer,NULL,Unknown,0,2024-06-12,Paid Social,0
+CUS-00897,cust00897@example.com,Consumer,NULL,United States,0,2024-06-12,Referral,1
+CUS-00898,cust00898@example.com,Consumer,NULL,Australia,0,2024-06-13,Paid Social,1
+CUS-00899,cust00899@example.com,Consumer,NULL,United States,0,2024-06-14,Referral,1
+CUS-00900,cust00900@example.com,Consumer,NULL,United Kingdom,0,2024-06-15,Organic Search,0
+CUS-00901,cust00901@example.com,Consumer,NULL,Singapore,0,2024-06-15,Referral,1
+CUS-00902,cust00902@example.com,Consumer,NULL,United Kingdom,0,2024-06-16,Marketplace,0
+CUS-00903,cust00903@example.com,Consumer,NULL,United States,0,2024-06-17,Organic Search,1
+CUS-00904,cust00904@example.com,Consumer,NULL,United States,0,2024-06-17,Paid Social,0
+CUS-00905,cust00905@example.com,Consumer,NULL,Germany,0,2024-06-17,Email Campaign,0
+CUS-00906,cust00906@example.com,Consumer,NULL,United States,0,2024-06-18,Marketplace,1
+CUS-00907,cust00907@example.com,Consumer,NULL,Canada,0,2024-06-19,Marketplace,1
+CUS-00908,cust00908@example.com,Consumer,NULL,United States,0,2024-06-19,Marketplace,1
+CUS-00909,cust00909@example.com,Consumer,NULL,Canada,0,2024-06-20,Marketplace,0
+CUS-00910,cust00910@example.com,Consumer,NULL,United Kingdom,0,2024-06-20,Paid Social,1
+CUS-00911,cust00911@example.com,Consumer,NULL,United Arab Emirates,0,2024-06-20,Direct,1
+CUS-00912,cust00912@example.com,Consumer,NULL,United States,0,2024-06-21,Marketplace,1
+CUS-00913,cust00913@example.com,Consumer,NULL,United Kingdom,0,2024-06-21,Referral,0
+CUS-00914,cust00914@example.com,Consumer,NULL,United States,0,2024-06-21,Organic Search,1
+CUS-00915,cust00915@example.com,Consumer,NULL,United States,0,2024-06-21,Marketplace,0
+CUS-00916,cust00916@example.com,Consumer,NULL,Canada,0,2024-06-21,Marketplace,1
+CUS-00917,cust00917@example.com,Consumer,NULL,Australia,0,2024-06-22,Marketplace,0
+CUS-00918,cust00918@example.com,Consumer,NULL,Germany,0,2024-06-22,Email Campaign,1
+CUS-00919,cust00919@example.com,Consumer,NULL,Australia,0,2024-06-22,Referral,0
+CUS-00920,cust00920@example.com,Consumer,NULL,United States,0,2024-06-23,Marketplace,0
+CUS-00921,cust00921@example.com,Consumer,NULL,Germany,0,2024-06-23,Marketplace,0
+CUS-00922,NULL,Consumer,NULL,United Kingdom,0,2024-06-25,Paid Social,1
+CUS-00923,cust00923@example.com,Consumer,NULL,United States,0,2024-06-25,Organic Search,1
+CUS-00924,cust00924@example.com,Consumer,NULL,United States,0,2024-06-25,Direct,0
+CUS-00925,cust00925@example.com,Consumer,NULL,United States,0,2024-06-25,Paid Social,1
+CUS-00926,cust00926@example.com,Consumer,NULL,Australia,0,2024-06-25,Email Campaign,0
+CUS-00927,cust00927@example.com,Consumer,NULL,United Kingdom,0,2024-06-26,Paid Social,0
+CUS-00928,cust00928@example.com,Consumer,NULL,United States,0,2024-06-27,Paid Social,0
+CUS-00929,cust00929@example.com,Consumer,NULL,United Kingdom,0,2024-06-27,Marketplace,1
+CUS-00930,cust00930@example.com,Consumer,NULL,Germany,0,2024-06-29,Marketplace,0
+CUS-00931,cust00931@example.com,Consumer,NULL,United States,0,2024-06-29,Marketplace,1
+CUS-00932,cust00932@example.com,Consumer,NULL,Australia,0,2024-06-29,Organic Search,1
+CUS-00933,cust00933@example.com,Consumer,NULL,Unknown,0,2024-07-02,Marketplace,0
+CUS-00934,cust00934@example.com,Consumer,NULL,Deutschland,0,2024-07-02,Paid Social,1
+CUS-00935,cust00935@example.com,Consumer,NULL,Australia,0,2024-07-03,Organic Search,1
+CUS-00936,cust00936@example.com,Consumer,NULL,France,0,2024-07-03,Marketplace,1
+CUS-00937,cust00937@example.com,Consumer,NULL,Germany,0,2024-07-04,Referral,0
+CUS-00938,cust00938@example.com,Consumer,NULL,Canada,0,2024-07-04,Marketplace,1
+CUS-00939,cust00939@example.com,Consumer,NULL,France,0,2024-07-05,Marketplace,0
+CUS-00940,cust00940@example.com,Consumer,NULL,South Africa,0,2024-07-05,Marketplace,0
+CUS-00941,cust00941@example.com,Consumer,NULL,United Kingdom,0,2024-07-05,Referral,1
+CUS-00942,cust00942@example.com,Consumer,NULL,Canada,0,2024-07-05,Organic Search,1
+CUS-00943,cust00943@example.com,Consumer,NULL,Canada,0,2024-07-06,Organic Search,0
+CUS-00944,cust00944@example.com,Consumer,NULL,United States,0,2024-07-06,Referral,0
+CUS-00945,cust00945@example.com,Consumer,NULL,United States,0,2024-07-07,Email Campaign,1
+CUS-00946,cust00946@example.com,Consumer,NULL,Australia,0,2024-07-07,Marketplace,1
+CUS-00947,cust00947@example.com,Consumer,NULL,United States,0,2024-07-08,Email Campaign,0
+CUS-00948,cust00948@example.com,Consumer,NULL,United Kingdom,0,2024-07-08,Paid Social,0
+CUS-00949,cust00949@example.com,Consumer,NULL,South Africa,0,2024-07-08,Marketplace,0
+CUS-00950,cust00950@example.com,Consumer,NULL,France,0,2024-07-09,Paid Social,1
+CUS-00951,cust00951@example.com,Consumer,NULL,United Kingdom,0,2024-07-10,Paid Social,0
+CUS-00952,cust00952@example.com,Consumer,NULL,Canada,0,2024-07-11,Paid Social,0
+CUS-00953,cust00953@example.com,Consumer,NULL,United Kingdom,0,2024-07-11,Paid Social,1
+CUS-00954,cust00954@example.com,Consumer,NULL,Australia,0,2024-07-11,Referral,1
+CUS-00955,cust00955@example.com,Consumer,NULL,United States,0,2024-07-11,Marketplace,0
+CUS-00956,cust00956@example.com,Consumer,NULL,Australia,0,2024-07-11,Direct,0
+CUS-00957,cust00957@example.com,Consumer,NULL,South Africa,0,2024-07-12,Organic Search,0
+CUS-00958,cust00958@example.com,Consumer,NULL,United States,0,2024-07-12,Marketplace,1
+CUS-00959,cust00959@example.com,Consumer,NULL,United Kingdom,0,2024-07-12,Marketplace,1
+CUS-00960,cust00960@example.com,Consumer,NULL,United States,0,2024-07-14,Marketplace,1
+CUS-00961,cust00961@example.com,Consumer,NULL,Germany,0,2024-07-15,Marketplace,1
+CUS-00962,cust00962@example.com,Consumer,NULL,France,0,2024-07-15,Paid Social,0
+CUS-00963,cust00963@example.com,Consumer,NULL,United States,0,2024-07-16,Marketplace,1
+CUS-00964,cust00964@example.com,Consumer,NULL,Canada,0,2024-07-17,Marketplace,1
+CUS-00965,cust00965@example.com,Consumer,NULL,Germany,0,2024-07-17,Paid Social,1
+CUS-00966,cust00966@example.com,Consumer,NULL,United Arab Emirates,0,2024-07-17,Marketplace,1
+CUS-00967,cust00967@example.com,Consumer,NULL,France,0,2024-07-17,Referral,1
+CUS-00968,cust00968@example.com,Consumer,NULL,Germany,0,2024-07-18,Organic Search,0
+CUS-00969,cust00969@example.com,Consumer,NULL,United Kingdom,0,2024-07-19,Paid Social,0
+CUS-00970,cust00970@example.com,Consumer,NULL,United Kingdom,0,2024-07-20,Organic Search,1
+CUS-00971,cust00971@example.com,Consumer,NULL,Canada,0,2024-07-21,Referral,0
+CUS-00972,cust00972@example.com,Consumer,NULL,United Arab Emirates,0,2024-07-22,Marketplace,1
+CUS-00973,cust00973@example.com,Consumer,NULL,United Kingdom,0,2024-07-22,Paid Social,1
+CUS-00974,cust00974@example.com,Consumer,NULL,Australia,0,2024-07-22,Paid Social,0
+CUS-00975,cust00975@example.com,Consumer,NULL,Canada,0,2024-07-22,Marketplace,0
+CUS-00976,cust00976@example.com,Consumer,NULL,Canada,0,2024-07-23,Marketplace,1
+CUS-00977,cust00977@example.com,Consumer,NULL,Canada,0,2024-07-24,Paid Social,0
+CUS-00978,cust00978@example.com,Consumer,NULL,Singapore,0,2024-07-24,Marketplace,1
+CUS-00979,cust00979@example.net,Business,Specialty Retailer,United States,0,2024-07-24,Trade Show,1
+CUS-00980,cust00980@example.com,Consumer,NULL,United Kingdom,0,2024-07-25,Marketplace,0
+CUS-00981,cust00981@example.com,Consumer,NULL,South Africa,0,2024-07-26,Referral,1
+CUS-00982,cust00982@example.com,Consumer,NULL,Australia,0,2024-07-26,Marketplace,1
+CUS-00983,cust00983@example.com,Consumer,NULL,South Africa,0,2024-07-26,Paid Social,1
+CUS-00984,cust00984@example.com,Consumer,NULL,Australia,0,2024-07-28,Marketplace,1
+CUS-00985,cust00985@example.com,Consumer,NULL,South Africa,0,2024-07-28,Marketplace,0
+CUS-00986,cust00986@example.com,Consumer,NULL,France,0,2024-07-28,Paid Social,1
+CUS-00987,cust00987@example.com,Consumer,NULL,Ghana,0,2024-07-28,Paid Social,0
+CUS-00988,cust00988@example.com,Consumer,NULL,Canada,0,2024-07-28,Email Campaign,1
+CUS-00989,cust00989@example.com,Consumer,NULL,United States,0,2024-07-30,Marketplace,1
+CUS-00990,cust00990@example.com,Consumer,NULL,France,0,2024-08-01,Paid Social,0
+CUS-00991,cust00991@example.com,Consumer,NULL,Ghana,0,2024-08-01,Organic Search,1
+CUS-00992,cust00992@example.com,Consumer,NULL,United States,0,2024-08-01,Marketplace,1
+CUS-00993,NULL,Consumer,NULL,Germany,0,2024-08-01,Marketplace,1
+CUS-00994,cust00994@example.com,Consumer,NULL,Canada,0,2024-08-02,Organic Search,1
+CUS-00995,cust00995@example.com,Consumer,NULL,United States,0,2024-08-02,Marketplace,1
+CUS-00996,cust00996@example.com,Consumer,NULL,Singapore,0,2024-08-02,Referral,1
+CUS-00997,cust00997@example.com,Consumer,NULL,South Africa,0,2024-08-03,Email Campaign,0
+CUS-00998,cust00998@example.com,Consumer,NULL,United Kingdom,0,2024-08-04,Organic Search,0
+CUS-00999,cust00999@example.com,Consumer,NULL,Germany,0,2024-08-05,Organic Search,0
+CUS-01000,cust01000@example.com,Consumer,NULL,South Africa,0,2024-08-06,Direct,1

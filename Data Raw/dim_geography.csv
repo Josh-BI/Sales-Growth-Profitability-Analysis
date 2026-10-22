@@ -1,0 +1,11 @@
+geography_id,country,iso_code,region,fulfilment_hub,utc_offset_hours,market_launch_date
+1,United States,US,North America,Reno (US),-6,2023-01-01
+2,Canada,CA,North America,Reno (US),-5,2023-01-01
+3,United Kingdom,GB,Europe,Rotterdam (NL),0,2023-01-01
+4,Germany,DE,Europe,Rotterdam (NL),1,2023-01-01
+5,France,FR,Europe,Rotterdam (NL),1,2023-07-01
+6,Australia,AU,Asia-Pacific,Singapore (SG),10,2023-01-01
+7,Singapore,SG,Asia-Pacific,Singapore (SG),8,2023-04-01
+8,United Arab Emirates,AE,Middle East & Africa,Rotterdam (NL),4,2024-02-01
+9,South Africa,ZA,Middle East & Africa,Rotterdam (NL),2,2023-10-01
+10,Ghana,GH,Middle East & Africa,Rotterdam (NL),0,2024-06-01

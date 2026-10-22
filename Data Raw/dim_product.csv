@@ -1,0 +1,61 @@
+product_id,sku,product_name,category,subcategory,brand,launch_date,discontinued_date,list_price_usd,standard_cost_usd,weight_kg
+PRD-001,TF-APP-0001,Ridgeline Shell Jacket,Apparel,Jackets,TrailForge,2022-06-01,,202.95,79.05,0.65
+PRD-002,TF-APP-0002,Summit Down Jacket,Apparel,Jackets,TrailForge,2022-06-01,,256.95,101.84,0.7
+PRD-003,TF-APP-0003,Alpine Insulated Parka,Apparel ,Jackets,TrailForge,2022-06-01,,299.95,120.64,1.1
+PRD-004,TF-APP-0004,Drizzle Rain Jacket,Apparel,Jackets,TrailForge,2022-06-01,,138.95,58.04,0.5
+PRD-005,TF-APP-0005,Merino Base Layer Top,Apparel,Base Layers,TrailForge,2022-06-01,,85.95,33.08,0.25
+PRD-006,TF-APP-0006,Merino Base Layer Bottom,Apparel,Base Layers,TrailForge,2022-06-01,,79.95,32.29,
+PRD-007,TF-APP-0007,Thermal Fleece Midlayer,Apparel,Base Layers,TrailForge,2022-06-01,,106.95,46.49,0.45
+PRD-008,TF-APP-0008,Trailhead Hiking Pants,Apparel,Pants,TrailForge,2022-06-01,,101.95,43.78,0.5
+PRD-009,TF-APP-0009,Convertible Zip-Off Pants,Apparel,Pants,TrailForge,2022-06-01,2025-08-31,90.95,35.45,0.45
+PRD-010,TF-APP-0010,Stormproof Rain Pants,Apparel,Pants,TrailForge,2022-06-01,,117.95,50.92,0.4
+PRD-011,TF-APP-0011,Daily Trail Tee,Apparel,Tops,TrailForge,2022-06-01,,36.95,15.49,0.2
+PRD-012,TF-APP-0012,Sun Shield Long Sleeve,Apparel,Tops,TrailForge,2024-05-01,,58.95,23.13,0.2
+PRD-013,TF-APP-0013,Quick-Dry Polo,Apparel,Tops,TrailForge,2022-06-01,2024-10-31,46.95,18.33,0.2
+PRD-014,TF-APP-0014,Wool Beanie,Apparel,Accessories,TrailForge,2022-06-01,,31.95,12.7,0.1
+PRD-015,TF-FOO-0015,Granite Waterproof Hiking Boot,footwear,Hiking Boots,TrailForge,2022-06-01,,178.95,101.58,1.4
+PRD-016,TF-FOO-0016,Ridgeback Mid Hiking Boot,Footwear,Hiking Boots,TrailForge,2022-06-01,,157.95,82.78,1.3
+PRD-017,TF-FOO-0017,Trailblazer Trail Runner,Footwear,Trail Runners,TrailForge,2022-06-01,,135.95,74.69,0.9
+PRD-018,TF-FOO-0018,Sprint Light Trail Runner,Footwear,Trail Runners,TrailForge,2022-06-01,,125.95,66.62,0.8
+PRD-019,TF-FOO-0019,River Sandal,Footwear,Sandals & Casual,TrailForge,2022-06-01,,67.95,37.03,0.6
+PRD-020,TF-FOO-0020,Camp Slip-On,Footwear,Sandals & Casual,TrailForge,2022-06-01,2025-03-31,51.95,28.39,0.5
+PRD-021,TF-FOO-0021,Alpine Approach Shoe,Footwear,Approach Shoes,TrailForge,2024-04-10,,146.95,81.42,1.0
+PRD-022,TF-FOO-0022,Insulated Winter Boot,Footwear,Hiking Boots,TrailForge,2024-09-01,,188.95,106.66,1.6
+PRD-023,TF-PAC-0023,Daypack 22L,Footwear ,Daypacks,TrailForge,2022-06-01,,85.95,41.79,0.8
+PRD-024,TF-PAC-0024,Daypack 30L,Packs & Bags,Daypacks,TrailForge,2022-06-01,,106.95,47.72,1.0
+PRD-025,TF-PAC-0025,Expedition Pack 65L,Packs & Bags,Backpacking Packs,TrailForge,2022-06-01,,267.95,118.03,2.4
+PRD-026,TF-PAC-0026,Weekender Duffel,Packs & Bags,Duffels,TrailForge,2022-06-01,,95.95,43.07,1.1
+PRD-027,TF-PAC-0027,Travel Backpack 40L,Packs & Bags,Travel Packs,TrailForge,2022-06-01,,149.95,71.8,1.5
+PRD-028,TF-PAC-0028,Dry Bag 20L,Packs & Bags,Dry Bags,TrailForge,2022-06-01,,31.95,14.38,
+PRD-029,TF-PAC-0029,Hip Pack,Packs & Bags,Hip Packs,TrailForge,2022-06-01,,42.95,21.19,0.3
+PRD-030,TF-PAC-0030,Trail Running Vest Pack,Packs & Bags,Running Packs,TrailForge,2024-03-01,,117.95,53.81,0.45
+PRD-031,TF-PAC-0031,Laptop Commuter Pack,Packs & Bags,Daypacks,TrailForge,2025-03-01,,127.95,63.08,1.0
+PRD-032,TF-PAC-0032,Stuff Sack Set,Packs & Bags,Organisers,TrailForge,2022-06-01,2025-06-30,26.95,12.33,0.2
+PRD-033,TF-CAM-0033,2-Person Backpacking Tent,Camping & Shelter,Tents,TrailForge,2022-06-01,,320.95,196.95,2.2
+PRD-034,TF-CAM-0034,4-Person Family Tent,Camping and Shelter,Tents,TrailForge,2022-06-01,,417.95,241.35,5.8
+PRD-035,TF-CAM-0035,Ultralight Solo Tent,Camping & Shelter,Tents,TrailForge,2023-05-01,,374.95,213.2,1.3
+PRD-036,TF-CAM-0036,3-Season Sleeping Bag,Camping & Shelter,Sleep Systems,TrailForge,2022-06-01,,181.95,108.74,1.4
+PRD-037,TF-CAM-0037,Winter Sleeping Bag -10C,Camping & Shelter,Sleep Systems,TrailForge,2022-06-01,,256.95,163.45,2.1
+PRD-038,TF-CAM-0038,Insulated Sleeping Pad,Camping & Shelter,Sleep Systems,TrailForge,2022-06-01,,127.95,74.58,0.7
+PRD-039,TF-CAM-0039,Camp Pillow,Camping & Shelter,Sleep Systems,TrailForge,2022-06-01,,31.95,19.53,0.3
+PRD-040,TF-CAM-0040,Two-Burner Camp Stove,Camping & Shelter,Cooking,TrailForge,2022-06-01,,117.95,66.9,3.2
+PRD-041,TF-CAM-0041,Backpacking Stove Kit,Camping & Shelter,Cooking,TrailForge,2022-06-01,,74.95,42.3,0.5
+PRD-042,TF-CAM-0042,Cookware Set 6-Piece,hydration & drinkware,Cooking,TrailForge,2022-06-01,,85.95,52.34,1.4
+PRD-043,TF-CAM-0043,Folding Camp Chair,Camping & Shelter,Camp Furniture,TrailForge,2022-06-01,,63.95,40.71,1.9
+PRD-044,TF-CAM-0044,Hammock with Straps,Camping & Shelter,Camp Furniture,TrailForge,2022-06-01,,53.95,31.46,0.6
+PRD-045,TF-HYD-0045,Insulated Bottle 750ml,Hydration & Drinkware,Bottles,TrailForge,2022-06-01,,36.95,13.69,
+PRD-046,TF-HYD-0046,Insulated Bottle 1L,Hydration & Drinkware,Bottles,TrailForge,2022-06-01,,42.95,15.6,0.6
+PRD-047,TF-HYD-0047,Steel Tumbler 20oz,Hydration & Drinkware,Bottles,TrailForge,2022-06-01,,26.95,9.87,0.4
+PRD-048,TF-HYD-0048,Collapsible Bottle,Hydration & Drinkware,Bottles,TrailForge,2022-06-01,,20.95,7.56,0.1
+PRD-049,TF-HYD-0049,Water Filter Straw,Hydration & Drinkware,Water Treatment,TrailForge,2022-06-01,,31.95,11.78,0.1
+PRD-050,TF-HYD-0050,Gravity Filter System 4L,Hydration & Drinkware,Water Treatment,TrailForge,2024-06-01,,90.95,32.57,0.6
+PRD-051,TF-HYD-0051,Hydration Bladder 2L,Hydration & Drinkware,Hydration Systems,TrailForge,2022-06-01,,42.95,15.63,0.3
+PRD-052,TF-HYD-0052,Electrolyte Tablets 12-Pack,Hydration & Drinkware,Nutrition,TrailForge,2022-06-01,,19.95,7.18,0.2
+PRD-053,TF-ELE-0053,Trail Headlamp 400lm,Packs and Bags,Headlamps,TrailForge,2022-06-01,,45.95,31.64,0.15
+PRD-054,TF-ELE-0054,Rechargeable Headlamp Pro,Electronics & Lighting,Headlamps,TrailForge,2023-09-15,,70.95,52.03,0.2
+PRD-055,TF-ELE-0055,LED Camp Lantern,Electronics & Lighting,Lanterns,TrailForge,2022-06-01,,40.95,26.93,0.4
+PRD-056,TF-ELE-0056,Power Bank 20000mAh,Electronics & Lighting,Power,Voltrek,2022-06-01,,60.95,42.32,0.45
+PRD-057,TF-ELE-0057,Solar Charger Panel 14W,Electronics & Lighting,Power,Voltrek,2022-06-01,,91.95,71.18,0.6
+PRD-058,TF-ELE-0058,GPS Satellite Tracker,Electronics & Lighting,Navigation,Voltrek,2022-06-01,,254.95,196.19,0.25
+PRD-059,TF-ELE-0059,Adventure Watch GPS,Electronics & Lighting,Navigation,Voltrek,2024-09-01,,305.95,213.08,0.1
+PRD-060,TF-ELE-0060,Portable Bluetooth Speaker,Electronics & Lighting,Audio,Voltrek,2025-04-15,,50.95,36.77,0.5

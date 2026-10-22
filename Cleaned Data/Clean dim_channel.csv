@@ -1,0 +1,5 @@
+﻿channel_id,channel_name,channel_type,launch_date,fee_rate,fee_fixed_usd,fee_basis
+1,Website,Direct,2023-01-01,0.0290,0.30,Net merchandise revenue + shipping charged
+2,Mobile App,Direct,2023-01-07,0.0290,0.30,Net merchandise revenue + shipping charged
+3,Marketplace,Marketplace,2023-01-01,0.1500,0.00,Net merchandise revenue
+4,Wholesale,Wholesale,2023-01-01,0.0000,0.00,Not applicable (invoiced)
