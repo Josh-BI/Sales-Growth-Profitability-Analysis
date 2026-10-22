@@ -35,7 +35,55 @@ Ten CSV files. The files are imperfect: they contain documented data-quality iss
 | `dim_geography.csv` | 10 | 7 | country |
 | `dim_date.csv` | 2,191 | 13 | day (2021-01-01 to 2026-12-31) |
 
+##  Repository Structure
 
+```text
+Sales-Growth-Profitability-Analysis/
+│
+├── Business_Case/
+│   └── [c:\Users\DELL\Desktop\Trail Forge Sales&Profitability Analysis\Business_Case\01_business_case.md]
+│
+├── Cleaned Data/
+│   └── [Clean dim_channel.csv]
+        [Clean dim_customers.csv]
+        [Clean dim_products.csv]
+        [Clean dim_promotion.csv]
+        [Clean fact_orders.csv]
+        [Clean fact_order_items.csv]
+        [Clean fact_marketing_spending.csv]
+        [Clean fact_returns.csv]
+│
+├── Dashboard Screenshot/
+│   └──[Profile View.png.png]
+       [Margin Drivers.png.png]
+│
+├── Data Raw/
+│   ├── fact_orders.csv
+│   ├── fact_order_items.csv
+│   ├── fact_returns.csv
+│   ├── fact_marketing_spend.csv
+│   ├── dim_customer.csv
+│   ├── dim_product.csv
+│   ├── dim_promotion.csv
+│   ├── dim_channel.csv
+│   ├── dim_geography.csv
+│   └── dim_date.csv
+│
+├── Documentation/
+│   └── [02_data_architecture.md]
+        [03_kpi_definitions.md]
+│
+├── Power BI/
+│   └── [Trail Forge Outdoor Co..pbix]
+│
+├── SQL/
+│   └── [TrailForge Data Cleaning.sql]
+        [Views And KPIs.sql]
+        [TrailForge Outdoor EDA.sql]
+        [06_eda_findings_summary.md]
+│
+└── README.md
+```
 
 ## 4. Data model
 Star-style model with two sales facts (order header and order line) plus returns and marketing spend, sharing date, customer, product, channel, geography and promotion dimensions. Diagram, data dictionary, relationships and business rules.
